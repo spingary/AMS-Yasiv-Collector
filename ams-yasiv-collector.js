@@ -87,18 +87,18 @@
                     'url': url,
                     'similar_asins': similar_asins,
                 }
-                if (level > 0) 
-                    console.log(obj);
+                //if (level > 0) 
+                //    console.log(obj);
                 all_asins[asin] = obj;
             }
         }
     }
     function doCollection() {
         for (i=1;i<10;i++) {
-          console.log('i: '+i);
+          //console.log('i: '+i);
           for (x in all_asins) {
             if (all_asins[x].level == i) {
-              console.log('ASIN: ' + all_asins[x].asin);
+              //console.log('ASIN: ' + all_asins[x].asin);
               for (y in all_asins[x].similar_asins) {
                 if (all_asins[all_asins[x].similar_asins[y]] !== undefined) {
                   if (all_asins[all_asins[x].similar_asins[y]].level == 0) {
@@ -137,7 +137,7 @@
         }
         return str;
     }
-    var capture = '<div id="capture"><div style="text-align: center"><button id="collect_button">Finalize</button><button id="capture_button" data-clipboard-target="#capture_table">Copy</button></div><table id="capture_table"><thead><tr><th>ASIN</th><th>Level</th><th>Referenced</th><th>Title</th><th>Sales Rank</th><th>URL</th></tr><thead></table><style>';
+    var capture = '<div id="capture"><div style="text-align: center"><p style="display:inline-block">Run your search then click Finalize when action has stopped.</p><button id="collect_button">Finalize</button><button id="capture_button" data-clipboard-target="#capture_table">Copy</button></div><table id="capture_table"><thead><tr><th>ASIN</th><th>Level</th><th>Referenced</th><th>Title</th><th>Sales Rank</th><th>URL</th></tr><thead></table><style>';
         capture += '#capture { z-index:99990;position: fixed; bottom: 10px;left: 10px;width: 800px;height: 300px;overflow:scroll;border: 3px solid blue;background: white}';
         capture += '#capture_table {width: 100%;}';
         capture += '#capture_table thead {border-bottom: 1px solid blue;}';
