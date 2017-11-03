@@ -61,7 +61,7 @@
                 }
 
                 var sales_rank_nodes = p.getElementsByTagName('SalesRank');
-                if (sales_rank_nodes && sales_rank_nodes[0].nodeType == 1) {
+                if (sales_rank_nodes.length && sales_rank_nodes[0].nodeType == 1) {
                     var sales_rank = sales_rank_nodes[0].childNodes[0].nodeValue;
                 } else {
                     var sales_rank = '';
@@ -118,8 +118,16 @@
             str += '</td><td>' + all_asins[c].url 
             str += '</td></tr>';
         }
-        jQuery('#capture_table').append(str);
+        jQuery('#capture_table tbody').append(str);
 
+    }
+    function clearReset() {
+        all_asins=[];
+        jQuery('#capture_table tbody').empty();
+        alert('Data is cleared, but products may be cached so the data collected may not be accurate. RESTART is preferred.');
+    }
+    function restart() {
+        location.href='/';
     }
     function convertToCSV(objArray) {
         var array = typeof objArray != 'object' ? JSON.parse(objArray) : objArray;
@@ -137,7 +145,7 @@
         }
         return str;
     }
-    var capture = '<div id="capture"><div style="text-align: center"><p style="display:inline-block">Run your search then click Finalize when action has stopped.</p><button id="collect_button">Finalize</button><button id="capture_button" data-clipboard-target="#capture_table">Copy</button></div><table id="capture_table"><thead><tr><th>ASIN</th><th>Level</th><th>Referenced</th><th>Title</th><th>Sales Rank</th><th>URL</th></tr><thead></table><style>';
+    var capture = '<div id="capture" style="font-size:11px;"><div style="text-align: center"><p style="display:inline-block">Run your search then click Finalize when action has stopped.</p><button id="collect_button" style="background: #eee;margin: 0 2px">Finalize</button><button id="capture_button"  style="background: #eee;margin: 0 2px" data-clipboard-target="#capture_table">Copy</button><button id="clear_button" style="background:#eee;margin: 0 2px">Clear</button><button id="restart_button" style="background:#ff8888;margin: 0 2px;">Restart</button></div><table id="capture_table"><thead><tr><th>ASIN</th><th>Level</th><th>Referenced</th><th>Title</th><th>Sales Rank</th><th>URL</th></tr><thead><tbody></tbody></table><style>';
         capture += '#capture { z-index:99990;position: fixed; bottom: 10px;left: 10px;width: 800px;height: 300px;overflow:scroll;border: 3px solid blue;background: white}';
         capture += '#capture_table {width: 100%;}';
         capture += '#capture_table thead {border-bottom: 1px solid blue;}';
@@ -145,5 +153,7 @@
         capture += '    </style></div>';
     jQuery('body').append(capture);
     jQuery('#collect_button').click(function(){ doCollection()});
+    jQuery('#clear_button').click(function(){ clearReset()});
+    jQuery('#restart_button').click(function(){ restart()});
     new Clipboard('#capture_button');
 })();
