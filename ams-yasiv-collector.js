@@ -67,6 +67,17 @@
                     var sales_rank = '';
                 }
 
+                var lowest_new_price = p.getElementsByTagName('LowestNewPrice');
+                if (lowest_new_price.length) {
+                    var amount = lowest_new_price[0].getElementsByTagName('Amount');
+                    if (amount.length && amount[0].nodeType == 1) {
+                        var price = parseInt(amount[0].childNodes[0].nodeValue)/100;
+                    }
+                    else 
+                        var price = 0;
+                }
+                else
+                    var price = 0;
 
                 var similar = p.getElementsByTagName('SimilarProducts');
                 var similar_asins = [];
@@ -84,6 +95,7 @@
                     'referenced': 0,
                     'title': title,
                     'sales_rank': sales_rank,
+                    'price': price,
                     'url': url,
                     'similar_asins': similar_asins,
                 }
@@ -115,6 +127,7 @@
             str += '<tr><td>'+ all_asins[c].asin + '</td><td>' + all_asins[c].level + '</td><td>' + all_asins[c].referenced ;
             str += '</td><td>' + all_asins[c].title
             str += '</td><td>' + all_asins[c].sales_rank 
+            str += '</td><td>' + all_asins[c].price 
             str += '</td><td>' + all_asins[c].url 
             str += '</td></tr>';
         }
@@ -145,7 +158,7 @@
         }
         return str;
     }
-    var capture = '<div id="capture" style="font-size:11px;"><div style="text-align: center"><p style="display:inline-block">Run your search then click Finalize when action has stopped.</p><button id="collect_button" style="background: #eee;margin: 0 2px">Finalize</button><button id="capture_button"  style="background: #eee;margin: 0 2px" data-clipboard-target="#capture_table">Copy</button><button id="clear_button" style="background:#eee;margin: 0 2px">Clear</button><button id="restart_button" style="background:#ff8888;margin: 0 2px;">Restart</button></div><table id="capture_table"><thead><tr><th>ASIN</th><th>Level</th><th>Referenced</th><th>Title</th><th>Sales Rank</th><th>URL</th></tr><thead><tbody></tbody></table><style>';
+    var capture = '<div id="capture" style="font-size:11px;"><div style="text-align: center"><p style="display:inline-block">Run your search then click Finalize when action has stopped.</p><button id="collect_button" style="background: #eee;margin: 0 2px">Finalize</button><button id="capture_button"  style="background: #eee;margin: 0 2px" data-clipboard-target="#capture_table">Copy</button><button id="clear_button" style="background:#eee;margin: 0 2px">Clear</button><button id="restart_button" style="background:#ff8888;margin: 0 2px;">Restart</button></div><table id="capture_table"><thead><tr><th>ASIN</th><th>Level</th><th>Referenced</th><th>Title</th><th>Sales Rank</th><th>Price</th><th>URL</th></tr><thead><tbody></tbody></table><style>';
         capture += '#capture { z-index:99990;position: fixed; bottom: 10px;left: 10px;width: 800px;height: 300px;overflow:scroll;border: 3px solid blue;background: white}';
         capture += '#capture_table {width: 100%;}';
         capture += '#capture_table thead {border-bottom: 1px solid blue;}';
