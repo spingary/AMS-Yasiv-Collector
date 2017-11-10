@@ -1,0 +1,3315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemLookupResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+   <OperationRequest>
+      <HTTPHeaders>
+         <Header Name="UserAgent" Value="AppEngine-Google; (+http://code.google.com/appengine; appid: s~yasivcom)" />
+      </HTTPHeaders>
+      <RequestId>f22862a5-56c9-46e6-b8dd-d025df665a11</RequestId>
+      <Arguments>
+         <Argument Name="AWSAccessKeyId" Value="AKIAIJKR6IY4BV5FKK7A" />
+         <Argument Name="AssociateTag" Value="wwwyasivcom-20" />
+         <Argument Name="IdType" Value="ASIN" />
+         <Argument Name="ItemId" Value="B00004W3Y4,B0006OCC3I,B0021GF3BC,B0006OFXSE,B001B9Z49G,B015YSFEQ2,B00DD4GB4Y,B00004W3Y5,B000K3X4LE,B00O4HEI08" />
+         <Argument Name="Operation" Value="ItemLookup" />
+         <Argument Name="ResponseGroup" Value="Large,Similarities" />
+         <Argument Name="ReviewSort" Value="-HelpfulVotes" />
+         <Argument Name="Service" Value="AWSECommerceService" />
+         <Argument Name="Timestamp" Value="2017-11-03T03:11:00Z" />
+         <Argument Name="Version" Value="2011-08-01" />
+         <Argument Name="Signature" Value="BG8wj2TR6Dc2BC+MZjrCG4PfbFetL42g5zE9ZU1IKtw=" />
+      </Arguments>
+      <RequestProcessingTime>0.1525852810000000</RequestProcessingTime>
+   </OperationRequest>
+   <Items>
+      <Request>
+         <IsValid>True</IsValid>
+         <ItemLookupRequest>
+            <IdType>ASIN</IdType>
+            <ItemId>B00004W3Y4</ItemId>
+            <ItemId>B0006OCC3I</ItemId>
+            <ItemId>B0021GF3BC</ItemId>
+            <ItemId>B0006OFXSE</ItemId>
+            <ItemId>B001B9Z49G</ItemId>
+            <ItemId>B015YSFEQ2</ItemId>
+            <ItemId>B00DD4GB4Y</ItemId>
+            <ItemId>B00004W3Y5</ItemId>
+            <ItemId>B000K3X4LE</ItemId>
+            <ItemId>B00O4HEI08</ItemId>
+            <ResponseGroup>Large</ResponseGroup>
+            <ResponseGroup>Similarities</ResponseGroup>
+            <VariationPage>All</VariationPage>
+         </ItemLookupRequest>
+      </Request>
+      <Item>
+         <ASIN>B00004W3Y4</ASIN>
+         <DetailPageURL>https://www.amazon.com/Art-Markers-Rainbow-Washable-Original/dp/B00004W3Y4?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00004W3Y4</DetailPageURL>
+         <ItemLinks>
+            <ItemLink>
+               <Description>Technical Details</Description>
+               <URL>https://www.amazon.com/Art-Markers-Rainbow-Washable-Original/dp/tech-data/B00004W3Y4?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00004W3Y4</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Baby Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B00004W3Y4&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00004W3Y4</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wedding Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B00004W3Y4&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00004W3Y4</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wishlist</Description>
+               <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B00004W3Y4&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00004W3Y4</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Tell A Friend</Description>
+               <URL>https://www.amazon.com/gp/pdp/taf/B00004W3Y4?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00004W3Y4</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Customer Reviews</Description>
+               <URL>https://www.amazon.com/review/product/B00004W3Y4?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00004W3Y4</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Offers</Description>
+               <URL>https://www.amazon.com/gp/offer-listing/B00004W3Y4?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00004W3Y4</URL>
+            </ItemLink>
+         </ItemLinks>
+         <SalesRank>540</SalesRank>
+         <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51zGWL3%2BIBL._SL75_.jpg</URL>
+            <Height Units="pixels">57</Height>
+            <Width Units="pixels">75</Width>
+         </SmallImage>
+         <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51zGWL3%2BIBL._SL160_.jpg</URL>
+            <Height Units="pixels">123</Height>
+            <Width Units="pixels">160</Width>
+         </MediumImage>
+         <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51zGWL3%2BIBL.jpg</URL>
+            <Height Units="pixels">383</Height>
+            <Width Units="pixels">500</Width>
+         </LargeImage>
+         <ImageSets>
+            <ImageSet Category="variant">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51zvwEvWN5L._SL30_.jpg</URL>
+                  <Height Units="pixels">19</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51zvwEvWN5L._SL75_.jpg</URL>
+                  <Height Units="pixels">48</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51zvwEvWN5L._SL75_.jpg</URL>
+                  <Height Units="pixels">48</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51zvwEvWN5L._SL110_.jpg</URL>
+                  <Height Units="pixels">70</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51zvwEvWN5L._SL160_.jpg</URL>
+                  <Height Units="pixels">102</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51zvwEvWN5L.jpg</URL>
+                  <Height Units="pixels">320</Height>
+                  <Width Units="pixels">500</Width>
+               </LargeImage>
+            </ImageSet>
+            <ImageSet Category="variant">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51U09uiZSgL._SL30_.jpg</URL>
+                  <Height Units="pixels">21</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51U09uiZSgL._SL75_.jpg</URL>
+                  <Height Units="pixels">51</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51U09uiZSgL._SL75_.jpg</URL>
+                  <Height Units="pixels">51</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51U09uiZSgL._SL110_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51U09uiZSgL._SL160_.jpg</URL>
+                  <Height Units="pixels">110</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51U09uiZSgL.jpg</URL>
+                  <Height Units="pixels">343</Height>
+                  <Width Units="pixels">500</Width>
+               </LargeImage>
+            </ImageSet>
+            <ImageSet Category="variant">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51qrOkSV3yL._SL30_.jpg</URL>
+                  <Height Units="pixels">22</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51qrOkSV3yL._SL75_.jpg</URL>
+                  <Height Units="pixels">55</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51qrOkSV3yL._SL75_.jpg</URL>
+                  <Height Units="pixels">55</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51qrOkSV3yL._SL110_.jpg</URL>
+                  <Height Units="pixels">81</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51qrOkSV3yL._SL160_.jpg</URL>
+                  <Height Units="pixels">118</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51qrOkSV3yL.jpg</URL>
+                  <Height Units="pixels">369</Height>
+                  <Width Units="pixels">500</Width>
+               </LargeImage>
+            </ImageSet>
+            <ImageSet Category="variant">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51sAZ0uI4rL._SL30_.jpg</URL>
+                  <Height Units="pixels">18</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51sAZ0uI4rL._SL75_.jpg</URL>
+                  <Height Units="pixels">46</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51sAZ0uI4rL._SL75_.jpg</URL>
+                  <Height Units="pixels">46</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51sAZ0uI4rL._SL110_.jpg</URL>
+                  <Height Units="pixels">68</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51sAZ0uI4rL._SL160_.jpg</URL>
+                  <Height Units="pixels">99</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51sAZ0uI4rL.jpg</URL>
+                  <Height Units="pixels">308</Height>
+                  <Width Units="pixels">500</Width>
+               </LargeImage>
+            </ImageSet>
+            <ImageSet Category="variant">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41BV3auFlML._SL30_.jpg</URL>
+                  <Height Units="pixels">10</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41BV3auFlML._SL75_.jpg</URL>
+                  <Height Units="pixels">26</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41BV3auFlML._SL75_.jpg</URL>
+                  <Height Units="pixels">26</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41BV3auFlML._SL110_.jpg</URL>
+                  <Height Units="pixels">37</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41BV3auFlML._SL160_.jpg</URL>
+                  <Height Units="pixels">54</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41BV3auFlML.jpg</URL>
+                  <Height Units="pixels">170</Height>
+                  <Width Units="pixels">500</Width>
+               </LargeImage>
+            </ImageSet>
+            <ImageSet Category="primary">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51zGWL3%2BIBL._SL30_.jpg</URL>
+                  <Height Units="pixels">23</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51zGWL3%2BIBL._SL75_.jpg</URL>
+                  <Height Units="pixels">57</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51zGWL3%2BIBL._SL75_.jpg</URL>
+                  <Height Units="pixels">57</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51zGWL3%2BIBL._SL110_.jpg</URL>
+                  <Height Units="pixels">84</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51zGWL3%2BIBL._SL160_.jpg</URL>
+                  <Height Units="pixels">123</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51zGWL3%2BIBL.jpg</URL>
+                  <Height Units="pixels">383</Height>
+                  <Width Units="pixels">500</Width>
+               </LargeImage>
+            </ImageSet>
+         </ImageSets>
+         <ItemAttributes>
+            <Binding>Office Product</Binding>
+            <Brand>Do.A.Dot Art!</Brand>
+            <CatalogNumberList>
+               <CatalogNumberListElement>13048294</CatalogNumberListElement>
+               <CatalogNumberListElement>BBU-391284</CatalogNumberListElement>
+               <CatalogNumberListElement>DAD101</CatalogNumberListElement>
+               <CatalogNumberListElement>NMC212079</CatalogNumberListElement>
+               <CatalogNumberListElement>DOT-6PACKRAINBOW101</CatalogNumberListElement>
+               <CatalogNumberListElement>32697</CatalogNumberListElement>
+               <CatalogNumberListElement>101E</CatalogNumberListElement>
+               <CatalogNumberListElement>101</CatalogNumberListElement>
+            </CatalogNumberList>
+            <Color>Multi Colored</Color>
+            <EAN>0885182539490</EAN>
+            <EANList>
+               <EANListElement>0885182539490</EANListElement>
+               <EANListElement>0885951011349</EANListElement>
+               <EANListElement>0885417092448</EANListElement>
+               <EANListElement>0757098001012</EANListElement>
+               <EANListElement>0885516395020</EANListElement>
+               <EANListElement>7662558254989</EANListElement>
+            </EANList>
+            <Feature>&lt;b&gt;NO CUPS, NO BRUSH, NO MESS&lt;/b&gt;, our water based WASHABLE dot markers are easy set up clean up. Comes with 6 non-toxic colors in no spill, no splash bottles. Red, Orange, Yellow, Green, Blue, and Purple.</Feature>
+            <Feature>&lt;b&gt;MADE IN THE USA.&lt;/b&gt; Designed and manufactured in our own factory guaranteeing that you are getting the best product without the risk of unknown and unwanted contaminants, using only the highest quality materials and standards to ensure kids have endless fun, and parents and teachers have piece of mind. All Do A Dot Art! markers are GLUTEN FREE and LATEX FREE.</Feature>
+            <Feature>&lt;b&gt;PROMOTES EARLY CHILDHOOD DEVELOPMENT&lt;/b&gt; designed for layered learning, which gives children the opportunity to do original planning and thinking while creating expressive art, developing hand eye coordination and color recognition. Easy to use, perfect for toddler, preschool and kindergarten arts and crafts projects. DRIES QUICKLY</Feature>
+            <Feature>&lt;b&gt;EASY TO GRIP BOTTLE FOR LITTLE HANDS&lt;/b&gt;, with generous 2.5 ounce bottles. Do A Dot Art! makers have MORE PAINT per bottle than other dot markers. Just twist off the cap and let the creativity begin.</Feature>
+            <Feature>&lt;b&gt;FUN ART MEDIUM FOR CHILDREN OF ALL AGES&lt;/b&gt;. Do A Dot Art! markers have a PATENTED large sponge tip dauber engineered to be mess free, never dry out, and make a perfect dot every time. Kids love mixing, blending and layering colors to create their own masterpieces!</Feature>
+            <IsAdultProduct>0</IsAdultProduct>
+            <IsAutographed>0</IsAutographed>
+            <IsMemorabilia>0</IsMemorabilia>
+            <ItemDimensions>
+               <Height Units="hundredths-inches">625</Height>
+               <Length Units="hundredths-inches">825</Length>
+               <Weight Units="hundredths-pounds">100</Weight>
+               <Width Units="hundredths-inches">150</Width>
+            </ItemDimensions>
+            <Label>Do A Dot Art</Label>
+            <LegalDisclaimer>choking_hazard_small_parts</LegalDisclaimer>
+            <ListPrice>
+               <Amount>1599</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$15.99</FormattedPrice>
+            </ListPrice>
+            <Manufacturer>Do A Dot Art</Manufacturer>
+            <ManufacturerMaximumAge Units="months">1236</ManufacturerMaximumAge>
+            <ManufacturerMinimumAge Units="months">36</ManufacturerMinimumAge>
+            <Model>101</Model>
+            <MPN>101</MPN>
+            <NumberOfItems>1</NumberOfItems>
+            <PackageDimensions>
+               <Height Units="hundredths-inches">160</Height>
+               <Length Units="hundredths-inches">830</Length>
+               <Weight Units="hundredths-pounds">130</Weight>
+               <Width Units="hundredths-inches">690</Width>
+            </PackageDimensions>
+            <PackageQuantity>1</PackageQuantity>
+            <PartNumber>101</PartNumber>
+            <ProductGroup>Toy</ProductGroup>
+            <ProductTypeName>OFFICE_PRODUCTS</ProductTypeName>
+            <Publisher>Do A Dot Art</Publisher>
+            <Studio>Do A Dot Art</Studio>
+            <Title>Do A Dot Art! Markers 6-Pack Rainbow Washable Paint Markers, The Original Dot Marker</Title>
+            <UPC>885182539490</UPC>
+            <UPCList>
+               <UPCListElement>885182539490</UPCListElement>
+               <UPCListElement>757098001012</UPCListElement>
+               <UPCListElement>885516395020</UPCListElement>
+               <UPCListElement>885417092448</UPCListElement>
+               <UPCListElement>885951011349</UPCListElement>
+            </UPCList>
+         </ItemAttributes>
+         <OfferSummary>
+            <LowestNewPrice>
+               <Amount>1499</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$14.99</FormattedPrice>
+            </LowestNewPrice>
+            <TotalNew>41</TotalNew>
+            <TotalUsed>0</TotalUsed>
+            <TotalCollectible>0</TotalCollectible>
+            <TotalRefurbished>0</TotalRefurbished>
+         </OfferSummary>
+         <Offers>
+            <TotalOffers>1</TotalOffers>
+            <TotalOfferPages>1</TotalOfferPages>
+            <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/B00004W3Y4?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00004W3Y4</MoreOffersUrl>
+            <Offer>
+               <OfferAttributes>
+                  <Condition>New</Condition>
+               </OfferAttributes>
+               <OfferListing>
+                  <OfferListingId>r6sQ64vCycIpHdAyrCnju%2Bq5A%2F3arXn5oFpptUbzmyvrF7JFVro17Q8Dp0DHhcFkCy0jaxWuLZQ%2FPtVf2TpUdPGdCfu5chRzov4cYCYYOIfZixxfcwmF0CgEHx%2Fr6OVy8%2F0jsCgUexrnfZGS9OFB8vJ%2FY0Dvis9L</OfferListingId>
+                  <Price>
+                     <Amount>1599</Amount>
+                     <CurrencyCode>USD</CurrencyCode>
+                     <FormattedPrice>$15.99</FormattedPrice>
+                  </Price>
+                  <Availability>Usually ships in 24 hours</Availability>
+                  <AvailabilityAttributes>
+                     <AvailabilityType>now</AvailabilityType>
+                     <MinimumHours>0</MinimumHours>
+                     <MaximumHours>0</MaximumHours>
+                  </AvailabilityAttributes>
+                  <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                  <IsEligibleForPrime>1</IsEligibleForPrime>
+               </OfferListing>
+            </Offer>
+         </Offers>
+         <CustomerReviews>
+            <IFrameURL>https://www.amazon.com/reviews/iframe?akid=AKIAIJKR6IY4BV5FKK7A&amp;alinkCode=xm2&amp;asin=B00004W3Y4&amp;atag=wwwyasivcom-20&amp;exp=2017-11-04T03%3A11%3A00Z&amp;v=2&amp;sig=43h2HPnqhoeR1praYGrhvZlhrJZ0WgwDeeTsf6NbEsg%253D</IFrameURL>
+            <HasReviews>true</HasReviews>
+         </CustomerReviews>
+         <EditorialReviews>
+            <EditorialReview>
+               <Source>Product Description</Source>
+               <Content>Do A Dot Art! Where imagination begins with a little dot. For the past 24 years kids all over the world have been "dotting" with Do A Dot Art! The Original Dot Marker. Do A Dot Art! has become a staple art product in homes and preschools around the world. Parents and teachers love that its so easy for their children to create fun, imaginative open ended works of art, with limitless possibilities by simply twisting off the cap and letting imaginations run wild. Do A Dot Art! is designed and manufactured in the USA using only the highest quality materials and tested to the highest standards. Rest easy knowing your children are using quality products manufactured in our own factory and packed with love and care. Arts and crafts just got easier, and cleaner, with Do A Dot Art! Each marker has a large sponge tip dauber that will never dry out, and makes a perfect dot every time. Do A Dot Art! markers have bold pigments and bright colors that dry fast. Perfect for layering, blending, mixing colors, and covering a lot of space. Do A Dot Art! Rainbow set comes with 6 washable markers, red, orange, yellow, green, blue, and purple. Come see why Do A Dot Art! is the number one art medium used in preschools and elementary schools around the world!</Content>
+               <IsLinkSuppressed>0</IsLinkSuppressed>
+            </EditorialReview>
+            <EditorialReview>
+               <Source>Amazon.com</Source>
+               <Content>&lt;b&gt;PRODUCT&lt;/b&gt;&lt;br&gt;&lt;br&gt;Arts and crafts just got easier, and cleaner, with Do A Dot Art! The Original Dot Marker. &lt;/br&gt;&lt;br&gt;Do A Dot Art! Rainbow set comes with 6 WASHABLE markers. Each marker has a PATENEDED large sponge tip that will never dry out, and makes a perfect dot every time. Do A Dot Art! markers have bold pigments and bright colors that dry fast. Perfect for layering, blending, mixing colors, and covering a lot of space. &lt;/br&gt;&lt;br&gt;Do A Dot Art! markers are incredibly beneficial for teaching young children the benefits of layered learning. They are the perfect art medium for those seeking arts and crafts that spark creativity and inspire open-ended unscripted play.&lt;/br&gt;&lt;br&gt;Come see why Do A Dot Art! is the number one art medium used in preschools and elementary schools around the world!&lt;br&gt;&lt;br&gt; • Includes 6 Rainbow Colors: Red, Orange, Yellow, Green, Blue, Purple&lt;/br&gt;&lt;br&gt; • Made in the USA&lt;/br&gt;&lt;br&gt; • Dries Quickly, and Sponge Tips Never Dry Out&lt;/br&gt;&lt;br&gt; • Each Marker contains 2.5 ounces of ink which is more than other Dot Markers&lt;/br&gt;&lt;br&gt; • Washable&lt;/br&gt;&lt;br&gt; • Mix, Blend and Layer Color&lt;/br&gt;&lt;br&gt; • Does not Contain: Latex, Dairy &amp; Casein, Egg, Gluten, Peanut &amp; Tree Nut, or Soy&lt;/br&gt;&lt;br&gt;&lt;b&gt;COMPANY&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;b&gt; Do A Dot Art! Where Imagination Begins With A Little Dot. &lt;/br&gt;&lt;/b&gt;&lt;br&gt;For the past 24 years kids all over the world have been “dotting” with Do A Dot Art! Do A Dot Art! has become a staple art product in homes and preschools throughout the world. Parents and teachers love that its so easy for their children to create fun, imaginative open ended works of art, with limitless possibilities by simply twisting of the cap and letting imaginations run wild.&lt;/br&gt;&lt;br&gt;Do A Dot Art! is &lt;b&gt;designed and manufactured in the USA&lt;/b&gt; using only the highest quality materials and standards. Rest easy knowing your children are using quality products manufactured in our own factory and packed with love and care. &lt;/br&gt;</Content>
+               <IsLinkSuppressed>0</IsLinkSuppressed>
+            </EditorialReview>
+         </EditorialReviews>
+         <SimilarProducts>
+            <SimilarProduct>
+               <ASIN>B000I3JAAU</ASIN>
+               <Title>Do A Dot Art! Discovering My World Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000GFHFRK</ASIN>
+               <Title>Do A Dot Art! Mighty Trucks Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00004W3Y5</ASIN>
+               <Title>Do A Dot Art! Markers Brilliant Washable 6 pack, The Original Dot Marker</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000FA6B2Q</ASIN>
+               <Title>Do A Dot Art! Play and Learn Creative Activity and Coloring Book. Great For Learning Numbers, Letters and Shapes. Preschool Kindergarten Teacher Activities</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OCC3I</ASIN>
+               <Title>Do A Dot Art Farm Animal Friends Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFXSE</ASIN>
+               <Title>Do A Dot Art Princess Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B001B9Z49G</ASIN>
+               <Title>Do A Dot Art Tales of the Mermaid Creative Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFUV4</ASIN>
+               <Title>Do A Dot Art Rainbow Trail Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00DD4GB4Y</ASIN>
+               <Title>Do-A-Dot Art: Discovering Mighty Dinosaurs, Creative Activity Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0021GF3BC</ASIN>
+               <Title>Do A Dot Art! Under The Sea Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+         </SimilarProducts>
+         <BrowseNodes>
+            <BrowseNode>
+               <BrowseNodeId>166088011</BrowseNodeId>
+               <Name>Coloring Pens &amp; Markers</Name>
+               <Ancestors>
+                  <BrowseNode>
+                     <BrowseNodeId>2488275011</BrowseNodeId>
+                     <Name>Drawing &amp; Painting Supplies</Name>
+                     <Ancestors>
+                        <BrowseNode>
+                           <BrowseNodeId>166057011</BrowseNodeId>
+                           <Name>Arts &amp; Crafts</Name>
+                           <Ancestors>
+                              <BrowseNode>
+                                 <BrowseNodeId>165795011</BrowseNodeId>
+                                 <Name>Categories</Name>
+                                 <IsCategoryRoot>1</IsCategoryRoot>
+                                 <Ancestors>
+                                    <BrowseNode>
+                                       <BrowseNodeId>165793011</BrowseNodeId>
+                                       <Name>Toys &amp; Games</Name>
+                                    </BrowseNode>
+                                 </Ancestors>
+                              </BrowseNode>
+                           </Ancestors>
+                        </BrowseNode>
+                     </Ancestors>
+                  </BrowseNode>
+               </Ancestors>
+            </BrowseNode>
+         </BrowseNodes>
+      </Item>
+      <Item>
+         <ASIN>B0006OCC3I</ASIN>
+         <ParentASIN>B00YVLQ544</ParentASIN>
+         <DetailPageURL>https://www.amazon.com/Animal-Friends-Creative-Activity-Coloring/dp/B0006OCC3I?psc=1&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0006OCC3I</DetailPageURL>
+         <ItemLinks>
+            <ItemLink>
+               <Description>Technical Details</Description>
+               <URL>https://www.amazon.com/Animal-Friends-Creative-Activity-Coloring/dp/tech-data/B0006OCC3I?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0006OCC3I</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Baby Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B0006OCC3I&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0006OCC3I</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wedding Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B0006OCC3I&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0006OCC3I</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wishlist</Description>
+               <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B0006OCC3I&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0006OCC3I</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Tell A Friend</Description>
+               <URL>https://www.amazon.com/gp/pdp/taf/B0006OCC3I?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0006OCC3I</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Customer Reviews</Description>
+               <URL>https://www.amazon.com/review/product/B0006OCC3I?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0006OCC3I</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Offers</Description>
+               <URL>https://www.amazon.com/gp/offer-listing/B0006OCC3I?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0006OCC3I</URL>
+            </ItemLink>
+         </ItemLinks>
+         <SalesRank>6644</SalesRank>
+         <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51ewrllCNLL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">75</Width>
+         </SmallImage>
+         <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51ewrllCNLL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">160</Width>
+         </MediumImage>
+         <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51ewrllCNLL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">500</Width>
+         </LargeImage>
+         <ImageSets>
+            <ImageSet Category="primary">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ewrllCNLL._SL30_.jpg</URL>
+                  <Height Units="pixels">30</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ewrllCNLL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ewrllCNLL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ewrllCNLL._SL110_.jpg</URL>
+                  <Height Units="pixels">110</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ewrllCNLL._SL160_.jpg</URL>
+                  <Height Units="pixels">160</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ewrllCNLL.jpg</URL>
+                  <Height Units="pixels">500</Height>
+                  <Width Units="pixels">500</Width>
+               </LargeImage>
+            </ImageSet>
+         </ImageSets>
+         <ItemAttributes>
+            <Binding>Paperback</Binding>
+            <Brand>Do-A-Dot</Brand>
+            <CatalogNumberList>
+               <CatalogNumberListElement>212097</CatalogNumberListElement>
+               <CatalogNumberListElement>DOTB370</CatalogNumberListElement>
+               <CatalogNumberListElement>NMC212097</CatalogNumberListElement>
+               <CatalogNumberListElement>DADB370</CatalogNumberListElement>
+               <CatalogNumberListElement>B370</CatalogNumberListElement>
+               <CatalogNumberListElement>928022</CatalogNumberListElement>
+            </CatalogNumberList>
+            <Color>Multicolor</Color>
+            <EAN>0757098003702</EAN>
+            <EANList>
+               <EANListElement>0757098003702</EANListElement>
+            </EANList>
+            <Feature>What is your favorite farm animal? Find them all in this wonderful Do A Dot Art! coloring book, "Farm Animal Friends."</Feature>
+            <Feature>This creative activity book is a playful and fun way to learn about farm animals while coloring the afternoon away.</Feature>
+            <Feature>This Do a Dot Art coloring book has big bold artwork and fun activities including scissor skill designs.</Feature>
+            <Feature>Designed to work perfectly with all Do A Dot Art! Washable markers</Feature>
+            <Feature>All Do A Dot Art! Products are made in the USA</Feature>
+            <IsAutographed>0</IsAutographed>
+            <IsMemorabilia>0</IsMemorabilia>
+            <ItemDimensions>
+               <Height Units="hundredths-inches">1100</Height>
+               <Length Units="hundredths-inches">850</Length>
+               <Weight Units="hundredths-pounds">25</Weight>
+               <Width Units="hundredths-inches">1060</Width>
+            </ItemDimensions>
+            <Label>Do A Dot Art</Label>
+            <ListPrice>
+               <Amount>499</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$4.99</FormattedPrice>
+            </ListPrice>
+            <Manufacturer>Do A Dot Art</Manufacturer>
+            <ManufacturerMaximumAge Units="months">72</ManufacturerMaximumAge>
+            <ManufacturerMinimumAge Units="months">1</ManufacturerMinimumAge>
+            <Model>DADACT-370</Model>
+            <MPN>DADACT-370</MPN>
+            <NumberOfItems>1</NumberOfItems>
+            <PackageDimensions>
+               <Height Units="hundredths-inches">31</Height>
+               <Length Units="hundredths-inches">1098</Length>
+               <Weight Units="hundredths-pounds">30</Weight>
+               <Width Units="hundredths-inches">850</Width>
+            </PackageDimensions>
+            <PackageQuantity>1</PackageQuantity>
+            <PartNumber>DADACT-370</PartNumber>
+            <ProductGroup>Art and Craft Supply</ProductGroup>
+            <ProductTypeName>HOME</ProductTypeName>
+            <Publisher>Do A Dot Art</Publisher>
+            <Studio>Do A Dot Art</Studio>
+            <Title>Do A Dot Art Farm Animal Friends Creative Activity Coloring Book</Title>
+            <UPC>757098003702</UPC>
+            <UPCList>
+               <UPCListElement>757098003702</UPCListElement>
+            </UPCList>
+            <Warranty>Please check with the manufacturer regarding warranty and support issues.</Warranty>
+         </ItemAttributes>
+         <OfferSummary>
+            <LowestNewPrice>
+               <Amount>499</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$4.99</FormattedPrice>
+            </LowestNewPrice>
+            <LowestUsedPrice>
+               <Amount>151</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$1.51</FormattedPrice>
+            </LowestUsedPrice>
+            <TotalNew>20</TotalNew>
+            <TotalUsed>2</TotalUsed>
+            <TotalCollectible>0</TotalCollectible>
+            <TotalRefurbished>0</TotalRefurbished>
+         </OfferSummary>
+         <Offers>
+            <TotalOffers>1</TotalOffers>
+            <TotalOfferPages>1</TotalOfferPages>
+            <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/B0006OCC3I?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0006OCC3I</MoreOffersUrl>
+            <Offer>
+               <OfferAttributes>
+                  <Condition>New</Condition>
+               </OfferAttributes>
+               <OfferListing>
+                  <OfferListingId>c8CgGFzHkJakLJUM7WZ2E6dqr86SuTfcCWgIcVz2E4TstRVDEPRYq2TUJ1eErh7Rd7pvgNc4Be10ye1iqDIJtAfU048a88wIXykua73PUZzPx2C1wbDePw%3D%3D</OfferListingId>
+                  <Price>
+                     <Amount>699</Amount>
+                     <CurrencyCode>USD</CurrencyCode>
+                     <FormattedPrice>$6.99</FormattedPrice>
+                  </Price>
+                  <Availability>Usually ships in 24 hours</Availability>
+                  <AvailabilityAttributes>
+                     <AvailabilityType>now</AvailabilityType>
+                     <MinimumHours>0</MinimumHours>
+                     <MaximumHours>0</MaximumHours>
+                  </AvailabilityAttributes>
+                  <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                  <IsEligibleForPrime>1</IsEligibleForPrime>
+               </OfferListing>
+            </Offer>
+         </Offers>
+         <CustomerReviews>
+            <IFrameURL>https://www.amazon.com/reviews/iframe?akid=AKIAIJKR6IY4BV5FKK7A&amp;alinkCode=xm2&amp;asin=B0006OCC3I&amp;atag=wwwyasivcom-20&amp;exp=2017-11-04T03%3A11%3A00Z&amp;v=2&amp;sig=xOx4R%252FzJCdFtm7VWS%252BqdtLq0%252FdNDYUFSWBMNVm%252BP%252BSc%253D</IFrameURL>
+            <HasReviews>true</HasReviews>
+         </CustomerReviews>
+         <EditorialReviews>
+            <EditorialReview>
+               <Source>Product Description</Source>
+               <Content>Do A Dot Art! Farm Animal Friends coloring book is a classic Do A Dot Art! coloring book. Like all Do A Dot Art! coloring books, it has big bold artwork that is perfect for young children to use with Do A Dot Art! dauber markers. This book includes pirates, treasure, pirate ships, activities and more. Kids love the fun artwork, and it keeps them entertained for hours. With heavy yardstick paper, it absorbs well and every page has perforated edges which makes it simple and easy to display artwork.</Content>
+               <IsLinkSuppressed>0</IsLinkSuppressed>
+            </EditorialReview>
+         </EditorialReviews>
+         <SimilarProducts>
+            <SimilarProduct>
+               <ASIN>B015YSFEQ2</ASIN>
+               <Title>Do A Dot Art Zoo Animals Creative Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000GFHFRK</ASIN>
+               <Title>Do A Dot Art! Mighty Trucks Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0021GF3BC</ASIN>
+               <Title>Do A Dot Art! Under The Sea Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B007P4DUT2</ASIN>
+               <Title>Do A Dot Art! Color Me Nursury Rhymes Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000I3JAAU</ASIN>
+               <Title>Do A Dot Art! Discovering My World Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00DD4GB4Y</ASIN>
+               <Title>Do-A-Dot Art: Discovering Mighty Dinosaurs, Creative Activity Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00004W3Y4</ASIN>
+               <Title>Do A Dot Art! Markers 6-Pack Rainbow Washable Paint Markers, The Original Dot Marker</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFUV4</ASIN>
+               <Title>Do A Dot Art Rainbow Trail Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFXSE</ASIN>
+               <Title>Do A Dot Art Princess Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00196D5BA</ASIN>
+               <Title>Do A Dot Art Playful Puppies and Cuddly Kittens Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+         </SimilarProducts>
+         <Accessories>
+            <Accessory>
+               <ASIN>B0006OFUV4</ASIN>
+               <Title>Do A Dot Art Rainbow Trail Creative Activity and Coloring Book</Title>
+            </Accessory>
+         </Accessories>
+         <BrowseNodes>
+            <BrowseNode>
+               <BrowseNodeId>166080011</BrowseNodeId>
+               <Name>Drawing &amp; Sketch Pads</Name>
+               <Ancestors>
+                  <BrowseNode>
+                     <BrowseNodeId>2488275011</BrowseNodeId>
+                     <Name>Drawing &amp; Painting Supplies</Name>
+                     <Ancestors>
+                        <BrowseNode>
+                           <BrowseNodeId>166057011</BrowseNodeId>
+                           <Name>Arts &amp; Crafts</Name>
+                           <Ancestors>
+                              <BrowseNode>
+                                 <BrowseNodeId>165795011</BrowseNodeId>
+                                 <Name>Categories</Name>
+                                 <IsCategoryRoot>1</IsCategoryRoot>
+                                 <Ancestors>
+                                    <BrowseNode>
+                                       <BrowseNodeId>165793011</BrowseNodeId>
+                                       <Name>Toys &amp; Games</Name>
+                                    </BrowseNode>
+                                 </Ancestors>
+                              </BrowseNode>
+                           </Ancestors>
+                        </BrowseNode>
+                     </Ancestors>
+                  </BrowseNode>
+               </Ancestors>
+            </BrowseNode>
+         </BrowseNodes>
+      </Item>
+      <Item>
+         <ASIN>B0021GF3BC</ASIN>
+         <ParentASIN>B073XLML4M</ParentASIN>
+         <DetailPageURL>https://www.amazon.com/Under-Creative-Activity-Coloring-Book/dp/B0021GF3BC?psc=1&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0021GF3BC</DetailPageURL>
+         <ItemLinks>
+            <ItemLink>
+               <Description>Technical Details</Description>
+               <URL>https://www.amazon.com/Under-Creative-Activity-Coloring-Book/dp/tech-data/B0021GF3BC?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0021GF3BC</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Baby Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B0021GF3BC&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0021GF3BC</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wedding Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B0021GF3BC&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0021GF3BC</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wishlist</Description>
+               <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B0021GF3BC&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0021GF3BC</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Tell A Friend</Description>
+               <URL>https://www.amazon.com/gp/pdp/taf/B0021GF3BC?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0021GF3BC</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Customer Reviews</Description>
+               <URL>https://www.amazon.com/review/product/B0021GF3BC?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0021GF3BC</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Offers</Description>
+               <URL>https://www.amazon.com/gp/offer-listing/B0021GF3BC?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0021GF3BC</URL>
+            </ItemLink>
+         </ItemLinks>
+         <SalesRank>8747</SalesRank>
+         <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51Rr3VxScbL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">57</Width>
+         </SmallImage>
+         <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51Rr3VxScbL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">122</Width>
+         </MediumImage>
+         <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51Rr3VxScbL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">380</Width>
+         </LargeImage>
+         <ImageSets>
+            <ImageSet Category="primary">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Rr3VxScbL._SL30_.jpg</URL>
+                  <Height Units="pixels">30</Height>
+                  <Width Units="pixels">23</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Rr3VxScbL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">57</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Rr3VxScbL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">57</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Rr3VxScbL._SL110_.jpg</URL>
+                  <Height Units="pixels">110</Height>
+                  <Width Units="pixels">84</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Rr3VxScbL._SL160_.jpg</URL>
+                  <Height Units="pixels">160</Height>
+                  <Width Units="pixels">122</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Rr3VxScbL.jpg</URL>
+                  <Height Units="pixels">500</Height>
+                  <Width Units="pixels">380</Width>
+               </LargeImage>
+            </ImageSet>
+         </ImageSets>
+         <ItemAttributes>
+            <Binding>Paperback</Binding>
+            <Brand>Do-A-Dot</Brand>
+            <CatalogNumberList>
+               <CatalogNumberListElement>212100</CatalogNumberListElement>
+               <CatalogNumberListElement>928024</CatalogNumberListElement>
+               <CatalogNumberListElement>B372</CatalogNumberListElement>
+               <CatalogNumberListElement>DADB372</CatalogNumberListElement>
+               <CatalogNumberListElement>NMC212100</CatalogNumberListElement>
+            </CatalogNumberList>
+            <Department>Bedroom</Department>
+            <EAN>1757098003725</EAN>
+            <EANList>
+               <EANListElement>1757098003725</EANListElement>
+               <EANListElement>0757098003726</EANListElement>
+            </EANList>
+            <Feature>Discover you favorite sea animals with this fun Do A Dot Art! creative activity coloring book</Feature>
+            <Feature>Printed on heavy cardstock paper</Feature>
+            <Feature>Big, Bold artwork is perfect for allowing children to feel successful when coloring</Feature>
+            <Feature>Perforated edges make it easy to display your creative artwork</Feature>
+            <Feature>Includes 2 dimensional art activities that help children develop scissor skills</Feature>
+            <IsAutographed>0</IsAutographed>
+            <IsMemorabilia>0</IsMemorabilia>
+            <ItemDimensions>
+               <Height Units="hundredths-inches">1100</Height>
+               <Length Units="hundredths-inches">25</Length>
+               <Weight Units="hundredths-pounds">25</Weight>
+               <Width Units="hundredths-inches">850</Width>
+            </ItemDimensions>
+            <Label>Do A Dot Art</Label>
+            <ListPrice>
+               <Amount>499</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$4.99</FormattedPrice>
+            </ListPrice>
+            <Manufacturer>Do A Dot Art</Manufacturer>
+            <ManufacturerMaximumAge Units="months">72</ManufacturerMaximumAge>
+            <ManufacturerMinimumAge Units="months">24</ManufacturerMinimumAge>
+            <Model>DADACT-372</Model>
+            <MPN>DADACT-372</MPN>
+            <NumberOfItems>1</NumberOfItems>
+            <PackageDimensions>
+               <Height Units="hundredths-inches">10</Height>
+               <Length Units="hundredths-inches">1070</Length>
+               <Weight Units="hundredths-pounds">30</Weight>
+               <Width Units="hundredths-inches">800</Width>
+            </PackageDimensions>
+            <PackageQuantity>1</PackageQuantity>
+            <PartNumber>DADACT-372</PartNumber>
+            <ProductGroup>Art and Craft Supply</ProductGroup>
+            <ProductTypeName>HOME</ProductTypeName>
+            <Publisher>Do A Dot Art</Publisher>
+            <Studio>Do A Dot Art</Studio>
+            <Title>Do A Dot Art! Under The Sea Creative Activity Coloring Book</Title>
+            <UPC>757098003726</UPC>
+            <UPCList>
+               <UPCListElement>757098003726</UPCListElement>
+            </UPCList>
+         </ItemAttributes>
+         <OfferSummary>
+            <LowestNewPrice>
+               <Amount>499</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$4.99</FormattedPrice>
+            </LowestNewPrice>
+            <LowestUsedPrice>
+               <Amount>699</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$6.99</FormattedPrice>
+            </LowestUsedPrice>
+            <TotalNew>17</TotalNew>
+            <TotalUsed>1</TotalUsed>
+            <TotalCollectible>0</TotalCollectible>
+            <TotalRefurbished>0</TotalRefurbished>
+         </OfferSummary>
+         <Offers>
+            <TotalOffers>1</TotalOffers>
+            <TotalOfferPages>1</TotalOfferPages>
+            <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/B0021GF3BC?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0021GF3BC</MoreOffersUrl>
+            <Offer>
+               <OfferAttributes>
+                  <Condition>New</Condition>
+               </OfferAttributes>
+               <OfferListing>
+                  <OfferListingId>K4v00HPQkCT3G20X%2B0jWtImm9aNHFa06LeXTju153T%2BdfBIU%2FIR%2BdQoZ064nRWAfd17acwGM9wbocVyeU3Ru1HLzhzXfqWX1zHgfHQOkJAVhn8d%2BD9bRXzYOIIP1j9kHBY0J26Tiq%2BamZmNQusmENUwcoDC2s8f9</OfferListingId>
+                  <Price>
+                     <Amount>699</Amount>
+                     <CurrencyCode>USD</CurrencyCode>
+                     <FormattedPrice>$6.99</FormattedPrice>
+                  </Price>
+                  <Availability>Usually ships in 24 hours</Availability>
+                  <AvailabilityAttributes>
+                     <AvailabilityType>now</AvailabilityType>
+                     <MinimumHours>0</MinimumHours>
+                     <MaximumHours>0</MaximumHours>
+                  </AvailabilityAttributes>
+                  <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                  <IsEligibleForPrime>1</IsEligibleForPrime>
+               </OfferListing>
+            </Offer>
+         </Offers>
+         <CustomerReviews>
+            <IFrameURL>https://www.amazon.com/reviews/iframe?akid=AKIAIJKR6IY4BV5FKK7A&amp;alinkCode=xm2&amp;asin=B0021GF3BC&amp;atag=wwwyasivcom-20&amp;exp=2017-11-04T03%3A11%3A00Z&amp;v=2&amp;sig=RGX56ydxPf3OY5IUbBE3hVnb5L7SlzFxXmQk2Ptj%252BCg%253D</IFrameURL>
+            <HasReviews>true</HasReviews>
+         </CustomerReviews>
+         <EditorialReviews>
+            <EditorialReview>
+               <Source>Product Description</Source>
+               <Content>Under The Sea is a classic Do A Dot Art! creative activity and coloring book. All coloring books are printed on heavy cardstock paper and include perforated edges which make it simple and easy to display your artwork. All Do A Dot Art! products are designed and manufactured in the USA so parents and teachers can rest assured their children are getting the best quality products that meet the highest standards.</Content>
+               <IsLinkSuppressed>0</IsLinkSuppressed>
+            </EditorialReview>
+         </EditorialReviews>
+         <SimilarProducts>
+            <SimilarProduct>
+               <ASIN>B00DD4GB4Y</ASIN>
+               <Title>Do-A-Dot Art: Discovering Mighty Dinosaurs, Creative Activity Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B015YSFEQ2</ASIN>
+               <Title>Do A Dot Art Zoo Animals Creative Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OCC3I</ASIN>
+               <Title>Do A Dot Art Farm Animal Friends Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B001B9Z49G</ASIN>
+               <Title>Do A Dot Art Tales of the Mermaid Creative Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000GFHFRK</ASIN>
+               <Title>Do A Dot Art! Mighty Trucks Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFUV4</ASIN>
+               <Title>Do A Dot Art Rainbow Trail Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000I3JAAU</ASIN>
+               <Title>Do A Dot Art! Discovering My World Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFXSE</ASIN>
+               <Title>Do A Dot Art Princess Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00196D5BA</ASIN>
+               <Title>Do A Dot Art Playful Puppies and Cuddly Kittens Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00004W3Y4</ASIN>
+               <Title>Do A Dot Art! Markers 6-Pack Rainbow Washable Paint Markers, The Original Dot Marker</Title>
+            </SimilarProduct>
+         </SimilarProducts>
+         <BrowseNodes>
+            <BrowseNode>
+               <BrowseNodeId>166080011</BrowseNodeId>
+               <Name>Drawing &amp; Sketch Pads</Name>
+               <Ancestors>
+                  <BrowseNode>
+                     <BrowseNodeId>2488275011</BrowseNodeId>
+                     <Name>Drawing &amp; Painting Supplies</Name>
+                     <Ancestors>
+                        <BrowseNode>
+                           <BrowseNodeId>166057011</BrowseNodeId>
+                           <Name>Arts &amp; Crafts</Name>
+                           <Ancestors>
+                              <BrowseNode>
+                                 <BrowseNodeId>165795011</BrowseNodeId>
+                                 <Name>Categories</Name>
+                                 <IsCategoryRoot>1</IsCategoryRoot>
+                                 <Ancestors>
+                                    <BrowseNode>
+                                       <BrowseNodeId>165793011</BrowseNodeId>
+                                       <Name>Toys &amp; Games</Name>
+                                    </BrowseNode>
+                                 </Ancestors>
+                              </BrowseNode>
+                           </Ancestors>
+                        </BrowseNode>
+                     </Ancestors>
+                  </BrowseNode>
+               </Ancestors>
+            </BrowseNode>
+            <BrowseNode>
+               <BrowseNodeId>6115507011</BrowseNodeId>
+               <Name>Toys</Name>
+               <Ancestors>
+                  <BrowseNode>
+                     <BrowseNodeId>194046011</BrowseNodeId>
+                     <Name>Products</Name>
+                     <IsCategoryRoot>1</IsCategoryRoot>
+                     <Ancestors>
+                        <BrowseNode>
+                           <BrowseNodeId>194045011</BrowseNodeId>
+                        </BrowseNode>
+                     </Ancestors>
+                  </BrowseNode>
+               </Ancestors>
+            </BrowseNode>
+         </BrowseNodes>
+      </Item>
+      <Item>
+         <ASIN>B0006OFXSE</ASIN>
+         <ParentASIN>B00YVLQGKW</ParentASIN>
+         <DetailPageURL>https://www.amazon.com/Do-Dot-Art-Princess-Creative/dp/B0006OFXSE?psc=1&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0006OFXSE</DetailPageURL>
+         <ItemLinks>
+            <ItemLink>
+               <Description>Technical Details</Description>
+               <URL>https://www.amazon.com/Do-Dot-Art-Princess-Creative/dp/tech-data/B0006OFXSE?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0006OFXSE</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Baby Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B0006OFXSE&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0006OFXSE</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wedding Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B0006OFXSE&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0006OFXSE</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wishlist</Description>
+               <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B0006OFXSE&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0006OFXSE</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Tell A Friend</Description>
+               <URL>https://www.amazon.com/gp/pdp/taf/B0006OFXSE?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0006OFXSE</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Customer Reviews</Description>
+               <URL>https://www.amazon.com/review/product/B0006OFXSE?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0006OFXSE</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Offers</Description>
+               <URL>https://www.amazon.com/gp/offer-listing/B0006OFXSE?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0006OFXSE</URL>
+            </ItemLink>
+         </ItemLinks>
+         <SalesRank>19165</SalesRank>
+         <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/61qxNHm1VoL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">75</Width>
+         </SmallImage>
+         <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/61qxNHm1VoL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">160</Width>
+         </MediumImage>
+         <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/61qxNHm1VoL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">500</Width>
+         </LargeImage>
+         <ImageSets>
+            <ImageSet Category="primary">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/61qxNHm1VoL._SL30_.jpg</URL>
+                  <Height Units="pixels">30</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/61qxNHm1VoL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/61qxNHm1VoL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/61qxNHm1VoL._SL110_.jpg</URL>
+                  <Height Units="pixels">110</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/61qxNHm1VoL._SL160_.jpg</URL>
+                  <Height Units="pixels">160</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/61qxNHm1VoL.jpg</URL>
+                  <Height Units="pixels">500</Height>
+                  <Width Units="pixels">500</Width>
+               </LargeImage>
+            </ImageSet>
+         </ImageSets>
+         <ItemAttributes>
+            <Binding>Toy</Binding>
+            <Brand>Do A Dot Art</Brand>
+            <CatalogNumberList>
+               <CatalogNumberListElement>DOTB374</CatalogNumberListElement>
+               <CatalogNumberListElement>928026</CatalogNumberListElement>
+               <CatalogNumberListElement>DOT-B374-PICTUREMEPRINCESS</CatalogNumberListElement>
+               <CatalogNumberListElement>B374</CatalogNumberListElement>
+               <CatalogNumberListElement>NMC212102</CatalogNumberListElement>
+               <CatalogNumberListElement>DADB374</CatalogNumberListElement>
+            </CatalogNumberList>
+            <EAN>0057098003741</EAN>
+            <EANList>
+               <EANListElement>0057098003741</EANListElement>
+               <EANListElement>0757098003740</EANListElement>
+            </EANList>
+            <Feature>Simple designs with bold lines will delight artists of all ages.</Feature>
+            <Feature>Paper is heavy card stock and all pages are perforated for easy tear-out.</Feature>
+            <Feature>This cleverly designed book was created specifically for use with Do-A-Dot Markers.</Feature>
+            <IsAdultProduct>0</IsAdultProduct>
+            <IsAutographed>0</IsAutographed>
+            <IsMemorabilia>0</IsMemorabilia>
+            <ItemDimensions>
+               <Height Units="hundredths-inches">45</Height>
+               <Length Units="hundredths-inches">500</Length>
+               <Weight Units="hundredths-pounds">23</Weight>
+               <Width Units="hundredths-inches">500</Width>
+            </ItemDimensions>
+            <Label>Getting Fit</Label>
+            <ListPrice>
+               <Amount>599</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$5.99</FormattedPrice>
+            </ListPrice>
+            <Manufacturer>Getting Fit</Manufacturer>
+            <ManufacturerMaximumAge Units="months">180</ManufacturerMaximumAge>
+            <ManufacturerMinimumAge Units="months">36</ManufacturerMinimumAge>
+            <Model>757098003740</Model>
+            <MPN>757098003740</MPN>
+            <NumberOfItems>1</NumberOfItems>
+            <NumberOfPages>24</NumberOfPages>
+            <PackageDimensions>
+               <Height Units="hundredths-inches">31</Height>
+               <Length Units="hundredths-inches">1063</Length>
+               <Weight Units="hundredths-pounds">31</Weight>
+               <Width Units="hundredths-inches">803</Width>
+            </PackageDimensions>
+            <PackageQuantity>1</PackageQuantity>
+            <PartNumber>757098003740</PartNumber>
+            <ProductGroup>Toy</ProductGroup>
+            <ProductTypeName>TOYS_AND_GAMES</ProductTypeName>
+            <PublicationDate>0100</PublicationDate>
+            <Publisher>Getting Fit</Publisher>
+            <Studio>Getting Fit</Studio>
+            <Title>Do A Dot Art Princess Creative Activity Coloring Book</Title>
+            <UPC>057098003741</UPC>
+            <UPCList>
+               <UPCListElement>057098003741</UPCListElement>
+               <UPCListElement>757098003740</UPCListElement>
+            </UPCList>
+            <Warranty>No Warranty</Warranty>
+         </ItemAttributes>
+         <OfferSummary>
+            <LowestNewPrice>
+               <Amount>499</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$4.99</FormattedPrice>
+            </LowestNewPrice>
+            <LowestCollectiblePrice>
+               <Amount>249</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$2.49</FormattedPrice>
+            </LowestCollectiblePrice>
+            <TotalNew>30</TotalNew>
+            <TotalUsed>0</TotalUsed>
+            <TotalCollectible>1</TotalCollectible>
+            <TotalRefurbished>0</TotalRefurbished>
+         </OfferSummary>
+         <Offers>
+            <TotalOffers>1</TotalOffers>
+            <TotalOfferPages>1</TotalOfferPages>
+            <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/B0006OFXSE?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0006OFXSE</MoreOffersUrl>
+            <Offer>
+               <OfferAttributes>
+                  <Condition>New</Condition>
+               </OfferAttributes>
+               <OfferListing>
+                  <OfferListingId>K4v00HPQkCT3G20X%2B0jWtKVO5525j7iinF9pbYluLGlkYheSPHU30fHWo3ixSSYunDmviNd2W8Sq9QMS2fgW7r%2FMbE33Xsf9zwmoZai02k3PQ0E8LjEx3ZxGAd8SC2csDaZlpO%2BnFQMvE9DUM0qBK7OcPSJVz6QQ</OfferListingId>
+                  <Price>
+                     <Amount>699</Amount>
+                     <CurrencyCode>USD</CurrencyCode>
+                     <FormattedPrice>$6.99</FormattedPrice>
+                  </Price>
+                  <Availability>Usually ships in 24 hours</Availability>
+                  <AvailabilityAttributes>
+                     <AvailabilityType>now</AvailabilityType>
+                     <MinimumHours>0</MinimumHours>
+                     <MaximumHours>0</MaximumHours>
+                  </AvailabilityAttributes>
+                  <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                  <IsEligibleForPrime>1</IsEligibleForPrime>
+               </OfferListing>
+            </Offer>
+         </Offers>
+         <CustomerReviews>
+            <IFrameURL>https://www.amazon.com/reviews/iframe?akid=AKIAIJKR6IY4BV5FKK7A&amp;alinkCode=xm2&amp;asin=B0006OFXSE&amp;atag=wwwyasivcom-20&amp;exp=2017-11-04T03%3A11%3A00Z&amp;v=2&amp;sig=iRr7HQYid6OaPGXSBfzyxwimv595jZn1EsVvehRpHpQ%253D</IFrameURL>
+            <HasReviews>true</HasReviews>
+         </CustomerReviews>
+         <EditorialReviews>
+            <EditorialReview>
+               <Source>Product Description</Source>
+               <Content>This cleverly designed book was created specifically for use with Do-A-Dot Markers. Simple designs with bold lines will delight artists of all ages. Paper is heavy card stock and all pages are perforated for easy tear-out. 24 designs in each book.</Content>
+               <IsLinkSuppressed>0</IsLinkSuppressed>
+            </EditorialReview>
+         </EditorialReviews>
+         <SimilarProducts>
+            <SimilarProduct>
+               <ASIN>B001B9Z49G</ASIN>
+               <Title>Do A Dot Art Tales of the Mermaid Creative Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFSBQ</ASIN>
+               <Title>Do A Dot Art! Markers 5-Pack Shimmer Washable Paint Markers, The Original Dot Marker</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFUV4</ASIN>
+               <Title>Do A Dot Art Rainbow Trail Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000GFHFRK</ASIN>
+               <Title>Do A Dot Art! Mighty Trucks Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000I3JAAU</ASIN>
+               <Title>Do A Dot Art! Discovering My World Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00DD4GB4Y</ASIN>
+               <Title>Do-A-Dot Art: Discovering Mighty Dinosaurs, Creative Activity Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00004W3Y4</ASIN>
+               <Title>Do A Dot Art! Markers 6-Pack Rainbow Washable Paint Markers, The Original Dot Marker</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OCC3I</ASIN>
+               <Title>Do A Dot Art Farm Animal Friends Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0021GF3BC</ASIN>
+               <Title>Do A Dot Art! Under The Sea Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B015YSFEQ2</ASIN>
+               <Title>Do A Dot Art Zoo Animals Creative Coloring Book</Title>
+            </SimilarProduct>
+         </SimilarProducts>
+         <BrowseNodes>
+            <BrowseNode>
+               <BrowseNodeId>166080011</BrowseNodeId>
+               <Name>Drawing &amp; Sketch Pads</Name>
+               <Ancestors>
+                  <BrowseNode>
+                     <BrowseNodeId>2488275011</BrowseNodeId>
+                     <Name>Drawing &amp; Painting Supplies</Name>
+                     <Ancestors>
+                        <BrowseNode>
+                           <BrowseNodeId>166057011</BrowseNodeId>
+                           <Name>Arts &amp; Crafts</Name>
+                           <Ancestors>
+                              <BrowseNode>
+                                 <BrowseNodeId>165795011</BrowseNodeId>
+                                 <Name>Categories</Name>
+                                 <IsCategoryRoot>1</IsCategoryRoot>
+                                 <Ancestors>
+                                    <BrowseNode>
+                                       <BrowseNodeId>165793011</BrowseNodeId>
+                                       <Name>Toys &amp; Games</Name>
+                                    </BrowseNode>
+                                 </Ancestors>
+                              </BrowseNode>
+                           </Ancestors>
+                        </BrowseNode>
+                     </Ancestors>
+                  </BrowseNode>
+               </Ancestors>
+            </BrowseNode>
+            <BrowseNode>
+               <BrowseNodeId>6115507011</BrowseNodeId>
+               <Name>Toys</Name>
+               <Ancestors>
+                  <BrowseNode>
+                     <BrowseNodeId>194046011</BrowseNodeId>
+                     <Name>Products</Name>
+                     <IsCategoryRoot>1</IsCategoryRoot>
+                     <Ancestors>
+                        <BrowseNode>
+                           <BrowseNodeId>194045011</BrowseNodeId>
+                        </BrowseNode>
+                     </Ancestors>
+                  </BrowseNode>
+               </Ancestors>
+            </BrowseNode>
+         </BrowseNodes>
+      </Item>
+      <Item>
+         <ASIN>B001B9Z49G</ASIN>
+         <ParentASIN>B00YVPDBKG</ParentASIN>
+         <DetailPageURL>https://www.amazon.com/Do-Dot-Art-Creative-Coloring/dp/B001B9Z49G?psc=1&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B001B9Z49G</DetailPageURL>
+         <ItemLinks>
+            <ItemLink>
+               <Description>Technical Details</Description>
+               <URL>https://www.amazon.com/Do-Dot-Art-Creative-Coloring/dp/tech-data/B001B9Z49G?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B001B9Z49G</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Baby Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B001B9Z49G&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B001B9Z49G</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wedding Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B001B9Z49G&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B001B9Z49G</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wishlist</Description>
+               <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B001B9Z49G&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B001B9Z49G</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Tell A Friend</Description>
+               <URL>https://www.amazon.com/gp/pdp/taf/B001B9Z49G?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B001B9Z49G</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Customer Reviews</Description>
+               <URL>https://www.amazon.com/review/product/B001B9Z49G?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B001B9Z49G</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Offers</Description>
+               <URL>https://www.amazon.com/gp/offer-listing/B001B9Z49G?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B001B9Z49G</URL>
+            </ItemLink>
+         </ItemLinks>
+         <SalesRank>13276</SalesRank>
+         <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/615BJ%2Bu84rL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">54</Width>
+         </SmallImage>
+         <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/615BJ%2Bu84rL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">115</Width>
+         </MediumImage>
+         <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/615BJ%2Bu84rL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">359</Width>
+         </LargeImage>
+         <ImageSets>
+            <ImageSet Category="primary">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/615BJ%2Bu84rL._SL30_.jpg</URL>
+                  <Height Units="pixels">30</Height>
+                  <Width Units="pixels">22</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/615BJ%2Bu84rL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">54</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/615BJ%2Bu84rL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">54</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/615BJ%2Bu84rL._SL110_.jpg</URL>
+                  <Height Units="pixels">110</Height>
+                  <Width Units="pixels">79</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/615BJ%2Bu84rL._SL160_.jpg</URL>
+                  <Height Units="pixels">160</Height>
+                  <Width Units="pixels">115</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/615BJ%2Bu84rL.jpg</URL>
+                  <Height Units="pixels">500</Height>
+                  <Width Units="pixels">359</Width>
+               </LargeImage>
+            </ImageSet>
+         </ImageSets>
+         <ItemAttributes>
+            <Author>Do-A-Dot</Author>
+            <Binding>Paperback</Binding>
+            <Brand>Do A Dot Art</Brand>
+            <CatalogNumberList>
+               <CatalogNumberListElement>NMC212109</CatalogNumberListElement>
+               <CatalogNumberListElement>B378</CatalogNumberListElement>
+               <CatalogNumberListElement>928030</CatalogNumberListElement>
+               <CatalogNumberListElement>DOT-B378-TALESOFMERMAID</CatalogNumberListElement>
+            </CatalogNumberList>
+            <Color>Tale Of The Mermaids</Color>
+            <EAN>0757098003788</EAN>
+            <EANList>
+               <EANListElement>0757098003788</EANListElement>
+            </EANList>
+            <Feature>Take a journey under the sea with the mystical mermaids and their fun friends! This book contains mermaids, underwater castles, an octopus tea party, whales, and much more!</Feature>
+            <Feature>Write your own underwater story, design your own crown, and create beautiful artwork!</Feature>
+            <Feature>Designed to cultivate the budding artist in your little one. You will notice our graphics have been designed to work with the large sponge tips of Do A Dot Art! Markers, while at the same time not deciphering where each dot goes, so your little one has the joy of turning each page into their own work of art</Feature>
+            <Feature>Printed on heavy card stock paper</Feature>
+            <Feature>All Do A Dot Art Products are manufactured in the USA</Feature>
+            <IsAdultProduct>0</IsAdultProduct>
+            <IsAutographed>0</IsAutographed>
+            <IsMemorabilia>0</IsMemorabilia>
+            <ItemDimensions>
+               <Height Units="hundredths-inches">840</Height>
+               <Length Units="hundredths-inches">1090</Length>
+               <Weight Units="hundredths-pounds">25</Weight>
+               <Width Units="hundredths-inches">20</Width>
+            </ItemDimensions>
+            <Label>Do A Dot Art</Label>
+            <ListPrice>
+               <Amount>499</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$4.99</FormattedPrice>
+            </ListPrice>
+            <Manufacturer>Do A Dot Art</Manufacturer>
+            <ManufacturerMaximumAge Units="months">72</ManufacturerMaximumAge>
+            <ManufacturerMinimumAge Units="months">36</ManufacturerMinimumAge>
+            <Model>B378</Model>
+            <MPN>B378</MPN>
+            <NumberOfItems>1</NumberOfItems>
+            <PackageDimensions>
+               <Height Units="hundredths-inches">40</Height>
+               <Length Units="hundredths-inches">1070</Length>
+               <Weight Units="hundredths-pounds">35</Weight>
+               <Width Units="hundredths-inches">820</Width>
+            </PackageDimensions>
+            <PackageQuantity>1</PackageQuantity>
+            <PartNumber>B378</PartNumber>
+            <ProductGroup>Toy</ProductGroup>
+            <ProductTypeName>TOYS_AND_GAMES</ProductTypeName>
+            <Publisher>Do A Dot Art</Publisher>
+            <Studio>Do A Dot Art</Studio>
+            <Title>Do A Dot Art Tales of the Mermaid Creative Coloring Book</Title>
+            <UPC>757098003788</UPC>
+            <UPCList>
+               <UPCListElement>757098003788</UPCListElement>
+            </UPCList>
+         </ItemAttributes>
+         <OfferSummary>
+            <LowestNewPrice>
+               <Amount>499</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$4.99</FormattedPrice>
+            </LowestNewPrice>
+            <LowestCollectiblePrice>
+               <Amount>300</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$3.00</FormattedPrice>
+            </LowestCollectiblePrice>
+            <TotalNew>17</TotalNew>
+            <TotalUsed>0</TotalUsed>
+            <TotalCollectible>1</TotalCollectible>
+            <TotalRefurbished>0</TotalRefurbished>
+         </OfferSummary>
+         <Offers>
+            <TotalOffers>1</TotalOffers>
+            <TotalOfferPages>1</TotalOfferPages>
+            <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/B001B9Z49G?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B001B9Z49G</MoreOffersUrl>
+            <Offer>
+               <OfferAttributes>
+                  <Condition>New</Condition>
+               </OfferAttributes>
+               <OfferListing>
+                  <OfferListingId>K4v00HPQkCT3G20X%2B0jWtOx3uyIu9S%2F8%2BT1PbzZ4UhWJoOWP8aDU2hMbO3pMtO9WruLSAf7OTkq18FMaYcjSPBaKbB759J3d5hFm0zaI30hKid19q1LVM56f7%2BoCj669z3aoZ53BDD2gP8xXPli0UkfmekYEcA9a</OfferListingId>
+                  <Price>
+                     <Amount>715</Amount>
+                     <CurrencyCode>USD</CurrencyCode>
+                     <FormattedPrice>$7.15</FormattedPrice>
+                  </Price>
+                  <Availability>Usually ships in 24 hours</Availability>
+                  <AvailabilityAttributes>
+                     <AvailabilityType>now</AvailabilityType>
+                     <MinimumHours>0</MinimumHours>
+                     <MaximumHours>0</MaximumHours>
+                  </AvailabilityAttributes>
+                  <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                  <IsEligibleForPrime>1</IsEligibleForPrime>
+               </OfferListing>
+            </Offer>
+         </Offers>
+         <CustomerReviews>
+            <IFrameURL>https://www.amazon.com/reviews/iframe?akid=AKIAIJKR6IY4BV5FKK7A&amp;alinkCode=xm2&amp;asin=B001B9Z49G&amp;atag=wwwyasivcom-20&amp;exp=2017-11-04T03%3A11%3A00Z&amp;v=2&amp;sig=g9xJY6yja1U1SXfS8%252FXpfUrvnl0D3%252Bz67PfvRpt9qWs%253D</IFrameURL>
+            <HasReviews>true</HasReviews>
+         </CustomerReviews>
+         <EditorialReviews>
+            <EditorialReview>
+               <Source>Product Description</Source>
+               <Content>Do-A-Dot Tales Of A Mermaid Activity Book Kids will enjoy hours of creative expression with this uniquely designed activity book! The bold designs and heavy card stock paper make this the perfect companion for Dot Art markers. Pages are perforated for easy removal and display.    Recommended Ages: 3 years &amp; up</Content>
+               <IsLinkSuppressed>0</IsLinkSuppressed>
+            </EditorialReview>
+         </EditorialReviews>
+         <SimilarProducts>
+            <SimilarProduct>
+               <ASIN>B0006OFXSE</ASIN>
+               <Title>Do A Dot Art Princess Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFSBQ</ASIN>
+               <Title>Do A Dot Art! Markers 5-Pack Shimmer Washable Paint Markers, The Original Dot Marker</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0021GF3BC</ASIN>
+               <Title>Do A Dot Art! Under The Sea Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000I3JAAU</ASIN>
+               <Title>Do A Dot Art! Discovering My World Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000GFHFRK</ASIN>
+               <Title>Do A Dot Art! Mighty Trucks Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00DD4GB4Y</ASIN>
+               <Title>Do-A-Dot Art: Discovering Mighty Dinosaurs, Creative Activity Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFUV4</ASIN>
+               <Title>Do A Dot Art Rainbow Trail Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00004W3Y4</ASIN>
+               <Title>Do A Dot Art! Markers 6-Pack Rainbow Washable Paint Markers, The Original Dot Marker</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00O4HEI08</ASIN>
+               <Title>Do A Dot Art! Marker Tutti Frutti Shimmer Markers, 5-Pack, The Original Dot Marker</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00004W3Y5</ASIN>
+               <Title>Do A Dot Art! Markers Brilliant Washable 6 pack, The Original Dot Marker</Title>
+            </SimilarProduct>
+         </SimilarProducts>
+         <BrowseNodes>
+            <BrowseNode>
+               <BrowseNodeId>166080011</BrowseNodeId>
+               <Name>Drawing &amp; Sketch Pads</Name>
+               <Ancestors>
+                  <BrowseNode>
+                     <BrowseNodeId>2488275011</BrowseNodeId>
+                     <Name>Drawing &amp; Painting Supplies</Name>
+                     <Ancestors>
+                        <BrowseNode>
+                           <BrowseNodeId>166057011</BrowseNodeId>
+                           <Name>Arts &amp; Crafts</Name>
+                           <Ancestors>
+                              <BrowseNode>
+                                 <BrowseNodeId>165795011</BrowseNodeId>
+                                 <Name>Categories</Name>
+                                 <IsCategoryRoot>1</IsCategoryRoot>
+                                 <Ancestors>
+                                    <BrowseNode>
+                                       <BrowseNodeId>165793011</BrowseNodeId>
+                                       <Name>Toys &amp; Games</Name>
+                                    </BrowseNode>
+                                 </Ancestors>
+                              </BrowseNode>
+                           </Ancestors>
+                        </BrowseNode>
+                     </Ancestors>
+                  </BrowseNode>
+               </Ancestors>
+            </BrowseNode>
+            <BrowseNode>
+               <BrowseNodeId>6115405011</BrowseNodeId>
+               <Name>Electronics</Name>
+               <Ancestors>
+                  <BrowseNode>
+                     <BrowseNodeId>194046011</BrowseNodeId>
+                     <Name>Products</Name>
+                     <IsCategoryRoot>1</IsCategoryRoot>
+                     <Ancestors>
+                        <BrowseNode>
+                           <BrowseNodeId>194045011</BrowseNodeId>
+                        </BrowseNode>
+                     </Ancestors>
+                  </BrowseNode>
+               </Ancestors>
+            </BrowseNode>
+         </BrowseNodes>
+      </Item>
+      <Item>
+         <ASIN>B015YSFEQ2</ASIN>
+         <ParentASIN>B00TTI15VW</ParentASIN>
+         <DetailPageURL>https://www.amazon.com/Do-Dot-Art-Creative-Coloring/dp/B015YSFEQ2?psc=1&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B015YSFEQ2</DetailPageURL>
+         <ItemLinks>
+            <ItemLink>
+               <Description>Technical Details</Description>
+               <URL>https://www.amazon.com/Do-Dot-Art-Creative-Coloring/dp/tech-data/B015YSFEQ2?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B015YSFEQ2</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Baby Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B015YSFEQ2&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B015YSFEQ2</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wedding Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B015YSFEQ2&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B015YSFEQ2</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wishlist</Description>
+               <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B015YSFEQ2&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B015YSFEQ2</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Tell A Friend</Description>
+               <URL>https://www.amazon.com/gp/pdp/taf/B015YSFEQ2?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B015YSFEQ2</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Customer Reviews</Description>
+               <URL>https://www.amazon.com/review/product/B015YSFEQ2?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B015YSFEQ2</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Offers</Description>
+               <URL>https://www.amazon.com/gp/offer-listing/B015YSFEQ2?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B015YSFEQ2</URL>
+            </ItemLink>
+         </ItemLinks>
+         <SalesRank>137779</SalesRank>
+         <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51mzFMDSuwL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">75</Width>
+         </SmallImage>
+         <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51mzFMDSuwL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">160</Width>
+         </MediumImage>
+         <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51mzFMDSuwL.jpg</URL>
+            <Height Units="pixels">450</Height>
+            <Width Units="pixels">450</Width>
+         </LargeImage>
+         <ImageSets>
+            <ImageSet Category="variant">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/512DwXHHNHL._SL30_.jpg</URL>
+                  <Height Units="pixels">30</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/512DwXHHNHL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/512DwXHHNHL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/512DwXHHNHL._SL110_.jpg</URL>
+                  <Height Units="pixels">110</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/512DwXHHNHL._SL160_.jpg</URL>
+                  <Height Units="pixels">160</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/512DwXHHNHL.jpg</URL>
+                  <Height Units="pixels">450</Height>
+                  <Width Units="pixels">450</Width>
+               </LargeImage>
+            </ImageSet>
+            <ImageSet Category="variant">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ukhmBo8NL._SL30_.jpg</URL>
+                  <Height Units="pixels">30</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ukhmBo8NL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ukhmBo8NL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ukhmBo8NL._SL110_.jpg</URL>
+                  <Height Units="pixels">110</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ukhmBo8NL._SL160_.jpg</URL>
+                  <Height Units="pixels">160</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ukhmBo8NL.jpg</URL>
+                  <Height Units="pixels">450</Height>
+                  <Width Units="pixels">450</Width>
+               </LargeImage>
+            </ImageSet>
+            <ImageSet Category="variant">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41kzNQX1sBL._SL30_.jpg</URL>
+                  <Height Units="pixels">30</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41kzNQX1sBL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41kzNQX1sBL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41kzNQX1sBL._SL110_.jpg</URL>
+                  <Height Units="pixels">110</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41kzNQX1sBL._SL160_.jpg</URL>
+                  <Height Units="pixels">160</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41kzNQX1sBL.jpg</URL>
+                  <Height Units="pixels">450</Height>
+                  <Width Units="pixels">450</Width>
+               </LargeImage>
+            </ImageSet>
+            <ImageSet Category="variant">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51iYWZE0iJL._SL30_.jpg</URL>
+                  <Height Units="pixels">30</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51iYWZE0iJL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51iYWZE0iJL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51iYWZE0iJL._SL110_.jpg</URL>
+                  <Height Units="pixels">110</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51iYWZE0iJL._SL160_.jpg</URL>
+                  <Height Units="pixels">160</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51iYWZE0iJL.jpg</URL>
+                  <Height Units="pixels">450</Height>
+                  <Width Units="pixels">450</Width>
+               </LargeImage>
+            </ImageSet>
+            <ImageSet Category="primary">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51mzFMDSuwL._SL30_.jpg</URL>
+                  <Height Units="pixels">30</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51mzFMDSuwL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51mzFMDSuwL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51mzFMDSuwL._SL110_.jpg</URL>
+                  <Height Units="pixels">110</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51mzFMDSuwL._SL160_.jpg</URL>
+                  <Height Units="pixels">160</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51mzFMDSuwL.jpg</URL>
+                  <Height Units="pixels">450</Height>
+                  <Width Units="pixels">450</Width>
+               </LargeImage>
+            </ImageSet>
+         </ImageSets>
+         <ItemAttributes>
+            <Binding>Paperback</Binding>
+            <Brand>Do A Dot Art</Brand>
+            <CatalogNumberList>
+               <CatalogNumberListElement>DOTB371</CatalogNumberListElement>
+               <CatalogNumberListElement>B371</CatalogNumberListElement>
+               <CatalogNumberListElement>DADB371</CatalogNumberListElement>
+            </CatalogNumberList>
+            <Color>Multi</Color>
+            <EAN>0757098003719</EAN>
+            <EANList>
+               <EANListElement>0757098003719</EANListElement>
+               <EANListElement>0757098006208</EANListElement>
+               <EANListElement>0793625053925</EANListElement>
+               <EANListElement>0785239569022</EANListElement>
+            </EANList>
+            <Feature>Lions, and Tigers, and Bears oh my! If you like to go to the zoo and see all of the exotic animals, then this is the book for you! Like all Do A Dot Art coloring books, Whos in the Zoo has big bold artwork, activities that allow children to do original planning and thinking, and fun games!</Feature>
+            <Feature>Like all Do A Dot Art coloring books, Whos in the Zoo has big bold artwork, activities that allow children to do original planning and thinking, and fun games!</Feature>
+            <Feature>Designed to cultivate the budding artist in your little one. You will notice our graphics have been designed to work with the large sponge tips of Do A Dot Art! Markers, while at the same time not deciphering where each dot goes, so your little one has the joy of turning each page into their own work of art.</Feature>
+            <Feature>Printed on heavy card stock paper to prevent bleeding.</Feature>
+            <Feature>All Do A Dot Art! Products are made in the USA</Feature>
+            <IsAdultProduct>0</IsAdultProduct>
+            <IsAutographed>0</IsAutographed>
+            <IsMemorabilia>0</IsMemorabilia>
+            <ItemDimensions>
+               <Height Units="hundredths-inches">13</Height>
+               <Length Units="hundredths-inches">1100</Length>
+               <Weight Units="hundredths-pounds">22</Weight>
+               <Width Units="hundredths-inches">1060</Width>
+            </ItemDimensions>
+            <Label>Do-A-Dot</Label>
+            <ListPrice>
+               <Amount>499</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$4.99</FormattedPrice>
+            </ListPrice>
+            <Manufacturer>Do-A-Dot</Manufacturer>
+            <ManufacturerMaximumAge Units="months">72</ManufacturerMaximumAge>
+            <ManufacturerMinimumAge Units="months">36</ManufacturerMinimumAge>
+            <Model>B371</Model>
+            <MPN>371</MPN>
+            <PackageDimensions>
+               <Height Units="hundredths-inches">13</Height>
+               <Length Units="hundredths-inches">1090</Length>
+               <Weight Units="hundredths-pounds">30</Weight>
+               <Width Units="hundredths-inches">840</Width>
+            </PackageDimensions>
+            <PackageQuantity>1</PackageQuantity>
+            <PartNumber>371</PartNumber>
+            <ProductGroup>Toy</ProductGroup>
+            <ProductTypeName>TOYS_AND_GAMES</ProductTypeName>
+            <PublicationDate>1998</PublicationDate>
+            <Publisher>Do-A-Dot</Publisher>
+            <Studio>Do-A-Dot</Studio>
+            <Title>Do A Dot Art Zoo Animals Creative Coloring Book</Title>
+            <UPC>793625053925</UPC>
+            <UPCList>
+               <UPCListElement>793625053925</UPCListElement>
+               <UPCListElement>757098003719</UPCListElement>
+               <UPCListElement>757098006208</UPCListElement>
+               <UPCListElement>785239569022</UPCListElement>
+            </UPCList>
+            <Warranty>Please check with the manufacturer regarding warranty and support issues.</Warranty>
+         </ItemAttributes>
+         <OfferSummary>
+            <LowestNewPrice>
+               <Amount>395</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$3.95</FormattedPrice>
+            </LowestNewPrice>
+            <LowestUsedPrice>
+               <Amount>566</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$5.66</FormattedPrice>
+            </LowestUsedPrice>
+            <LowestCollectiblePrice>
+               <Amount>563</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$5.63</FormattedPrice>
+            </LowestCollectiblePrice>
+            <TotalNew>6</TotalNew>
+            <TotalUsed>1</TotalUsed>
+            <TotalCollectible>1</TotalCollectible>
+            <TotalRefurbished>0</TotalRefurbished>
+         </OfferSummary>
+         <Offers>
+            <TotalOffers>0</TotalOffers>
+            <TotalOfferPages>0</TotalOfferPages>
+            <MoreOffersUrl>0</MoreOffersUrl>
+         </Offers>
+         <CustomerReviews>
+            <IFrameURL>https://www.amazon.com/reviews/iframe?akid=AKIAIJKR6IY4BV5FKK7A&amp;alinkCode=xm2&amp;asin=B015YSFEQ2&amp;atag=wwwyasivcom-20&amp;exp=2017-11-04T03%3A11%3A00Z&amp;v=2&amp;sig=J5P6S%252BV%252B3xhSXH1j2wtoaLwnnEvIJjhWytbxLGVwwjI%253D</IFrameURL>
+            <HasReviews>true</HasReviews>
+         </CustomerReviews>
+         <EditorialReviews>
+            <EditorialReview>
+               <Source>Product Description</Source>
+               <Content>Rainbow Trails Features cute animals, rainbows and other cool designs. Here are the perfect art and activity books to use with your Do-A-Dot Art. Designed for use with the dabbers, the books are printed on heavy card stock paper with perforated pages.</Content>
+               <IsLinkSuppressed>0</IsLinkSuppressed>
+            </EditorialReview>
+         </EditorialReviews>
+         <SimilarProducts>
+            <SimilarProduct>
+               <ASIN>B0021GF3BC</ASIN>
+               <Title>Do A Dot Art! Under The Sea Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OCC3I</ASIN>
+               <Title>Do A Dot Art Farm Animal Friends Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00DD4GB4Y</ASIN>
+               <Title>Do-A-Dot Art: Discovering Mighty Dinosaurs, Creative Activity Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000GFHFRK</ASIN>
+               <Title>Do A Dot Art! Mighty Trucks Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000I3JAAU</ASIN>
+               <Title>Do A Dot Art! Discovering My World Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000K3X4LE</ASIN>
+               <Title>Colorful Critters Do-A-Dot Art Creative Activity Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFUV4</ASIN>
+               <Title>Do A Dot Art Rainbow Trail Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B007P4DUT2</ASIN>
+               <Title>Do A Dot Art! Color Me Nursury Rhymes Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B001B9Z49G</ASIN>
+               <Title>Do A Dot Art Tales of the Mermaid Creative Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFXSE</ASIN>
+               <Title>Do A Dot Art Princess Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+         </SimilarProducts>
+         <Accessories>
+            <Accessory>
+               <ASIN>B0006OCC3I</ASIN>
+               <Title>Do A Dot Art Farm Animal Friends Creative Activity Coloring Book</Title>
+            </Accessory>
+         </Accessories>
+         <BrowseNodes>
+            <BrowseNode>
+               <BrowseNodeId>166080011</BrowseNodeId>
+               <Name>Drawing &amp; Sketch Pads</Name>
+               <Ancestors>
+                  <BrowseNode>
+                     <BrowseNodeId>2488275011</BrowseNodeId>
+                     <Name>Drawing &amp; Painting Supplies</Name>
+                     <Ancestors>
+                        <BrowseNode>
+                           <BrowseNodeId>166057011</BrowseNodeId>
+                           <Name>Arts &amp; Crafts</Name>
+                           <Ancestors>
+                              <BrowseNode>
+                                 <BrowseNodeId>165795011</BrowseNodeId>
+                                 <Name>Categories</Name>
+                                 <IsCategoryRoot>1</IsCategoryRoot>
+                                 <Ancestors>
+                                    <BrowseNode>
+                                       <BrowseNodeId>165793011</BrowseNodeId>
+                                       <Name>Toys &amp; Games</Name>
+                                    </BrowseNode>
+                                 </Ancestors>
+                              </BrowseNode>
+                           </Ancestors>
+                        </BrowseNode>
+                     </Ancestors>
+                  </BrowseNode>
+               </Ancestors>
+            </BrowseNode>
+         </BrowseNodes>
+      </Item>
+      <Item>
+         <ASIN>B00DD4GB4Y</ASIN>
+         <DetailPageURL>https://www.amazon.com/Do-Dot-Art-Discovering-Dinosaurs/dp/B00DD4GB4Y?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00DD4GB4Y</DetailPageURL>
+         <ItemLinks>
+            <ItemLink>
+               <Description>Technical Details</Description>
+               <URL>https://www.amazon.com/Do-Dot-Art-Discovering-Dinosaurs/dp/tech-data/B00DD4GB4Y?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00DD4GB4Y</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Baby Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B00DD4GB4Y&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00DD4GB4Y</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wedding Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B00DD4GB4Y&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00DD4GB4Y</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wishlist</Description>
+               <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B00DD4GB4Y&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00DD4GB4Y</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Tell A Friend</Description>
+               <URL>https://www.amazon.com/gp/pdp/taf/B00DD4GB4Y?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00DD4GB4Y</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Customer Reviews</Description>
+               <URL>https://www.amazon.com/review/product/B00DD4GB4Y?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00DD4GB4Y</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Offers</Description>
+               <URL>https://www.amazon.com/gp/offer-listing/B00DD4GB4Y?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00DD4GB4Y</URL>
+            </ItemLink>
+         </ItemLinks>
+         <SalesRank>18989</SalesRank>
+         <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51w8By%2BjSFL._SL75_.jpg</URL>
+            <Height Units="pixels">57</Height>
+            <Width Units="pixels">75</Width>
+         </SmallImage>
+         <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51w8By%2BjSFL._SL160_.jpg</URL>
+            <Height Units="pixels">123</Height>
+            <Width Units="pixels">160</Width>
+         </MediumImage>
+         <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51w8By%2BjSFL.jpg</URL>
+            <Height Units="pixels">383</Height>
+            <Width Units="pixels">500</Width>
+         </LargeImage>
+         <ImageSets>
+            <ImageSet Category="primary">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51w8By%2BjSFL._SL30_.jpg</URL>
+                  <Height Units="pixels">23</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51w8By%2BjSFL._SL75_.jpg</URL>
+                  <Height Units="pixels">57</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51w8By%2BjSFL._SL75_.jpg</URL>
+                  <Height Units="pixels">57</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51w8By%2BjSFL._SL110_.jpg</URL>
+                  <Height Units="pixels">84</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51w8By%2BjSFL._SL160_.jpg</URL>
+                  <Height Units="pixels">123</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51w8By%2BjSFL.jpg</URL>
+                  <Height Units="pixels">383</Height>
+                  <Width Units="pixels">500</Width>
+               </LargeImage>
+            </ImageSet>
+         </ImageSets>
+         <ItemAttributes>
+            <Binding>Toy</Binding>
+            <Brand>Do A Dot Art</Brand>
+            <CatalogNumberList>
+               <CatalogNumberListElement>NMC212101</CatalogNumberListElement>
+            </CatalogNumberList>
+            <Color>Multi</Color>
+            <EAN>7662558129874</EAN>
+            <EANList>
+               <EANListElement>7662558129874</EANListElement>
+               <EANListElement>0785239564836</EANListElement>
+               <EANListElement>0757098003733</EANListElement>
+               <EANListElement>1757098003732</EANListElement>
+            </EANList>
+            <Feature>Big, bold artwork makes it easy for children to feel successful when coloring in all of our fun art activity books</Feature>
+            <Feature>Designed to cultivate the budding artist in your little one. You will notice our graphics have been designed to work with the large sponge tips of Do A Dot Art Markers, while at the same time not deciphering where each dot goes, so your little one has the joy of turning each page into their own work of art</Feature>
+            <Feature>Printed on heavy card stock paper to prevent bleeding</Feature>
+            <Feature>Perforated for easy removal and display</Feature>
+            <Feature>Exceptional performance</Feature>
+            <IsAdultProduct>0</IsAdultProduct>
+            <ItemDimensions>
+               <Height Units="hundredths-inches">200</Height>
+               <Length Units="hundredths-inches">1100</Length>
+               <Weight Units="pounds">0.3</Weight>
+               <Width Units="hundredths-inches">600</Width>
+            </ItemDimensions>
+            <Label>Getting Fit</Label>
+            <ListPrice>
+               <Amount>502</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$5.02</FormattedPrice>
+            </ListPrice>
+            <Manufacturer>Getting Fit</Manufacturer>
+            <ManufacturerMaximumAge Units="months">180</ManufacturerMaximumAge>
+            <ManufacturerMinimumAge Units="months">36</ManufacturerMinimumAge>
+            <Model>757098003733</Model>
+            <MPN>757098003733</MPN>
+            <NumberOfItems>1</NumberOfItems>
+            <PackageDimensions>
+               <Height Units="hundredths-inches">20</Height>
+               <Length Units="hundredths-inches">1060</Length>
+               <Weight Units="hundredths-pounds">20</Weight>
+               <Width Units="hundredths-inches">850</Width>
+            </PackageDimensions>
+            <PackageQuantity>1</PackageQuantity>
+            <PartNumber>757098003733</PartNumber>
+            <ProductGroup>Toy</ProductGroup>
+            <ProductTypeName>TOYS_AND_GAMES</ProductTypeName>
+            <Publisher>Getting Fit</Publisher>
+            <Studio>Getting Fit</Studio>
+            <Title>Do-A-Dot Art: Discovering Mighty Dinosaurs, Creative Activity Book</Title>
+            <UPC>785239564836</UPC>
+            <UPCList>
+               <UPCListElement>785239564836</UPCListElement>
+               <UPCListElement>757098003733</UPCListElement>
+            </UPCList>
+            <Warranty>No Warranty</Warranty>
+         </ItemAttributes>
+         <OfferSummary>
+            <LowestNewPrice>
+               <Amount>299</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$2.99</FormattedPrice>
+            </LowestNewPrice>
+            <TotalNew>15</TotalNew>
+            <TotalUsed>0</TotalUsed>
+            <TotalCollectible>0</TotalCollectible>
+            <TotalRefurbished>0</TotalRefurbished>
+         </OfferSummary>
+         <Offers>
+            <TotalOffers>1</TotalOffers>
+            <TotalOfferPages>1</TotalOfferPages>
+            <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/B00DD4GB4Y?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00DD4GB4Y</MoreOffersUrl>
+            <Offer>
+               <OfferAttributes>
+                  <Condition>New</Condition>
+               </OfferAttributes>
+               <OfferListing>
+                  <OfferListingId>WqNA3vJWwi04%2FYHyOFd%2BwyWalZXcQF%2F7BNUwfhFTu5HZI34wNfkl2gwEo2Oq72pEjjWYh%2F2oIy8Lr4dFNcj4sksi4wzevlhVOy0ontCtt9egwvqpAC68YkCQVv9o%2F4OvPQGlay9La%2BQ2gi2I2aGdJu5HmL%2Blxeqn</OfferListingId>
+                  <Price>
+                     <Amount>699</Amount>
+                     <CurrencyCode>USD</CurrencyCode>
+                     <FormattedPrice>$6.99</FormattedPrice>
+                  </Price>
+                  <Availability>Usually ships in 24 hours</Availability>
+                  <AvailabilityAttributes>
+                     <AvailabilityType>now</AvailabilityType>
+                     <MinimumHours>0</MinimumHours>
+                     <MaximumHours>0</MaximumHours>
+                  </AvailabilityAttributes>
+                  <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                  <IsEligibleForPrime>1</IsEligibleForPrime>
+               </OfferListing>
+            </Offer>
+         </Offers>
+         <CustomerReviews>
+            <IFrameURL>https://www.amazon.com/reviews/iframe?akid=AKIAIJKR6IY4BV5FKK7A&amp;alinkCode=xm2&amp;asin=B00DD4GB4Y&amp;atag=wwwyasivcom-20&amp;exp=2017-11-04T03%3A11%3A00Z&amp;v=2&amp;sig=SL7p1wE8l5gYp6o2wE4LDdx7oaeC9XY3xxwFgDpSepI%253D</IFrameURL>
+            <HasReviews>true</HasReviews>
+         </CustomerReviews>
+         <EditorialReviews>
+            <EditorialReview>
+               <Source>Product Description</Source>
+               <Content>What’s your favorite dinosaur. Discovering Mighty Dinosaurs lets you  explore, color and learn facts about all your favorite mighty dinosaurs.  This book includes the scary Tyrannosaurus Rex, the very large  Apatosaurus, the bold Triceratops, and many more. This book also has fun  2 dimensional activities with simple guidelines to follow as well as  create your own dinosaur artwork.</Content>
+               <IsLinkSuppressed>0</IsLinkSuppressed>
+            </EditorialReview>
+         </EditorialReviews>
+         <SimilarProducts>
+            <SimilarProduct>
+               <ASIN>B000GFHFRK</ASIN>
+               <Title>Do A Dot Art! Mighty Trucks Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0021GF3BC</ASIN>
+               <Title>Do A Dot Art! Under The Sea Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B015YSFEQ2</ASIN>
+               <Title>Do A Dot Art Zoo Animals Creative Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OCC3I</ASIN>
+               <Title>Do A Dot Art Farm Animal Friends Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B001B9Z49G</ASIN>
+               <Title>Do A Dot Art Tales of the Mermaid Creative Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFXSE</ASIN>
+               <Title>Do A Dot Art Princess Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00004W3Y4</ASIN>
+               <Title>Do A Dot Art! Markers 6-Pack Rainbow Washable Paint Markers, The Original Dot Marker</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000I3JAAU</ASIN>
+               <Title>Do A Dot Art! Discovering My World Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFUV4</ASIN>
+               <Title>Do A Dot Art Rainbow Trail Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00004W3Y5</ASIN>
+               <Title>Do A Dot Art! Markers Brilliant Washable 6 pack, The Original Dot Marker</Title>
+            </SimilarProduct>
+         </SimilarProducts>
+         <Accessories>
+            <Accessory>
+               <ASIN>B015YSFEQ2</ASIN>
+               <Title>Do A Dot Art Zoo Animals Creative Coloring Book</Title>
+            </Accessory>
+         </Accessories>
+         <BrowseNodes>
+            <BrowseNode>
+               <BrowseNodeId>166080011</BrowseNodeId>
+               <Name>Drawing &amp; Sketch Pads</Name>
+               <Ancestors>
+                  <BrowseNode>
+                     <BrowseNodeId>2488275011</BrowseNodeId>
+                     <Name>Drawing &amp; Painting Supplies</Name>
+                     <Ancestors>
+                        <BrowseNode>
+                           <BrowseNodeId>166057011</BrowseNodeId>
+                           <Name>Arts &amp; Crafts</Name>
+                           <Ancestors>
+                              <BrowseNode>
+                                 <BrowseNodeId>165795011</BrowseNodeId>
+                                 <Name>Categories</Name>
+                                 <IsCategoryRoot>1</IsCategoryRoot>
+                                 <Ancestors>
+                                    <BrowseNode>
+                                       <BrowseNodeId>165793011</BrowseNodeId>
+                                       <Name>Toys &amp; Games</Name>
+                                    </BrowseNode>
+                                 </Ancestors>
+                              </BrowseNode>
+                           </Ancestors>
+                        </BrowseNode>
+                     </Ancestors>
+                  </BrowseNode>
+               </Ancestors>
+            </BrowseNode>
+            <BrowseNode>
+               <BrowseNodeId>6115507011</BrowseNodeId>
+               <Name>Toys</Name>
+               <Ancestors>
+                  <BrowseNode>
+                     <BrowseNodeId>194046011</BrowseNodeId>
+                     <Name>Products</Name>
+                     <IsCategoryRoot>1</IsCategoryRoot>
+                     <Ancestors>
+                        <BrowseNode>
+                           <BrowseNodeId>194045011</BrowseNodeId>
+                        </BrowseNode>
+                     </Ancestors>
+                  </BrowseNode>
+               </Ancestors>
+            </BrowseNode>
+         </BrowseNodes>
+      </Item>
+      <Item>
+         <ASIN>B00004W3Y5</ASIN>
+         <ParentASIN>B00KTN8V7M</ParentASIN>
+         <DetailPageURL>https://www.amazon.com/Do-Dot-Art-Brilliant-Washable/dp/B00004W3Y5?psc=1&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00004W3Y5</DetailPageURL>
+         <ItemLinks>
+            <ItemLink>
+               <Description>Technical Details</Description>
+               <URL>https://www.amazon.com/Do-Dot-Art-Brilliant-Washable/dp/tech-data/B00004W3Y5?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00004W3Y5</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Baby Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B00004W3Y5&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00004W3Y5</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wedding Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B00004W3Y5&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00004W3Y5</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wishlist</Description>
+               <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B00004W3Y5&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00004W3Y5</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Tell A Friend</Description>
+               <URL>https://www.amazon.com/gp/pdp/taf/B00004W3Y5?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00004W3Y5</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Customer Reviews</Description>
+               <URL>https://www.amazon.com/review/product/B00004W3Y5?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00004W3Y5</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Offers</Description>
+               <URL>https://www.amazon.com/gp/offer-listing/B00004W3Y5?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00004W3Y5</URL>
+            </ItemLink>
+         </ItemLinks>
+         <SalesRank>5010</SalesRank>
+         <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/515ZVnXzd3L._SL75_.jpg</URL>
+            <Height Units="pixels">56</Height>
+            <Width Units="pixels">75</Width>
+         </SmallImage>
+         <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/515ZVnXzd3L._SL160_.jpg</URL>
+            <Height Units="pixels">120</Height>
+            <Width Units="pixels">160</Width>
+         </MediumImage>
+         <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/515ZVnXzd3L.jpg</URL>
+            <Height Units="pixels">375</Height>
+            <Width Units="pixels">500</Width>
+         </LargeImage>
+         <ImageSets>
+            <ImageSet Category="variant">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Q64OCVN%2BL._SL30_.jpg</URL>
+                  <Height Units="pixels">26</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Q64OCVN%2BL._SL75_.jpg</URL>
+                  <Height Units="pixels">64</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Q64OCVN%2BL._SL75_.jpg</URL>
+                  <Height Units="pixels">64</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Q64OCVN%2BL._SL110_.jpg</URL>
+                  <Height Units="pixels">95</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Q64OCVN%2BL._SL160_.jpg</URL>
+                  <Height Units="pixels">138</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Q64OCVN%2BL.jpg</URL>
+                  <Height Units="pixels">430</Height>
+                  <Width Units="pixels">500</Width>
+               </LargeImage>
+            </ImageSet>
+            <ImageSet Category="variant">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ELqbr3OoL._SL30_.jpg</URL>
+                  <Height Units="pixels">24</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ELqbr3OoL._SL75_.jpg</URL>
+                  <Height Units="pixels">60</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ELqbr3OoL._SL75_.jpg</URL>
+                  <Height Units="pixels">60</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ELqbr3OoL._SL110_.jpg</URL>
+                  <Height Units="pixels">88</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ELqbr3OoL._SL160_.jpg</URL>
+                  <Height Units="pixels">128</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51ELqbr3OoL.jpg</URL>
+                  <Height Units="pixels">400</Height>
+                  <Width Units="pixels">500</Width>
+               </LargeImage>
+            </ImageSet>
+            <ImageSet Category="variant">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51379hiF2lL._SL30_.jpg</URL>
+                  <Height Units="pixels">22</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51379hiF2lL._SL75_.jpg</URL>
+                  <Height Units="pixels">56</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51379hiF2lL._SL75_.jpg</URL>
+                  <Height Units="pixels">56</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51379hiF2lL._SL110_.jpg</URL>
+                  <Height Units="pixels">82</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51379hiF2lL._SL160_.jpg</URL>
+                  <Height Units="pixels">120</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51379hiF2lL.jpg</URL>
+                  <Height Units="pixels">375</Height>
+                  <Width Units="pixels">500</Width>
+               </LargeImage>
+            </ImageSet>
+            <ImageSet Category="primary">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/515ZVnXzd3L._SL30_.jpg</URL>
+                  <Height Units="pixels">22</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/515ZVnXzd3L._SL75_.jpg</URL>
+                  <Height Units="pixels">56</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/515ZVnXzd3L._SL75_.jpg</URL>
+                  <Height Units="pixels">56</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/515ZVnXzd3L._SL110_.jpg</URL>
+                  <Height Units="pixels">82</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/515ZVnXzd3L._SL160_.jpg</URL>
+                  <Height Units="pixels">120</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/515ZVnXzd3L.jpg</URL>
+                  <Height Units="pixels">375</Height>
+                  <Width Units="pixels">500</Width>
+               </LargeImage>
+            </ImageSet>
+         </ImageSets>
+         <ItemAttributes>
+            <Binding>Toy</Binding>
+            <Brand>Do A Dot Art</Brand>
+            <CatalogNumberList>
+               <CatalogNumberListElement>103D</CatalogNumberListElement>
+               <CatalogNumberListElement>NMC212080</CatalogNumberListElement>
+               <CatalogNumberListElement>DOT-BRILLIANTMARKER-103</CatalogNumberListElement>
+               <CatalogNumberListElement>DAD103</CatalogNumberListElement>
+               <CatalogNumberListElement>32698</CatalogNumberListElement>
+               <CatalogNumberListElement>00569288</CatalogNumberListElement>
+               <CatalogNumberListElement>DOT103</CatalogNumberListElement>
+            </CatalogNumberList>
+            <Color>Pink, Violet, Teal, Yellow, Green, &amp; Brown</Color>
+            <Department>unisex-child</Department>
+            <EAN>0042516627586</EAN>
+            <EANList>
+               <EANListElement>0042516627586</EANListElement>
+               <EANListElement>0757098001036</EANListElement>
+               <EANListElement>0783329269616</EANListElement>
+               <EANListElement>5711008935731</EANListElement>
+            </EANList>
+            <Feature>NO CUPS, NO BRUSH, NO MESS, Brilliant washable dot markers are easy set up clean up. Comes with 6 non-toxic colors Pink,Teal, Violet, Lime Green, Sunflower Yellow, and Brown in no spill, no splash bottles. Perfect for all of your arts and crafts projects</Feature>
+            <Feature>MADE IN THE USA using only the highest quality materials and standards to ensure kids have endless fun, and parents and teachers have piece of mind. All Do A Dot Art! markers are GLUTEN FREE and LATEX FREE</Feature>
+            <Feature>PROMOTES EARLY CHILDHOOD DEVELOPMENT designed for layered learning, developing hand eye coordination and color recognition. Easy to use, perfect for toddler, preschool and kindergarten arts and crafts projects. DRIES QUICKLY</Feature>
+            <Feature>EASY TO GRIP BOTTLE FOR LITTLE HANDS, with generous 2.5 ounce bottles. Do A Dot Art! markers have MORE PAINT than other dot markers. Just twist off the cap and let the creativity begin</Feature>
+            <Feature>FUN ART MEDIUM FOR CHILDREN OF ALL AGES. Do A Dot Art! markers have a large sponge tip dauber that never dries out, and makes a perfect dot every time. Kids love dabbing, dotting, mixing, blending and layeriing colors to create their own masterpieces!</Feature>
+            <IsAdultProduct>0</IsAdultProduct>
+            <IsAutographed>0</IsAutographed>
+            <IsMemorabilia>0</IsMemorabilia>
+            <ItemDimensions>
+               <Height Units="hundredths-inches">500</Height>
+               <Length Units="hundredths-inches">800</Length>
+               <Weight Units="hundredths-pounds">100</Weight>
+               <Width Units="hundredths-inches">150</Width>
+            </ItemDimensions>
+            <Label>Do-A-Dot</Label>
+            <LegalDisclaimer>choking_hazard_small_parts</LegalDisclaimer>
+            <Manufacturer>Do-A-Dot</Manufacturer>
+            <ManufacturerMaximumAge Units="months">96</ManufacturerMaximumAge>
+            <ManufacturerMinimumAge Units="months">36</ManufacturerMinimumAge>
+            <Model>DOADOT-103-6</Model>
+            <MPN>103</MPN>
+            <NumberOfItems>1</NumberOfItems>
+            <PackageDimensions>
+               <Height Units="hundredths-inches">150</Height>
+               <Length Units="hundredths-inches">830</Length>
+               <Weight Units="hundredths-pounds">130</Weight>
+               <Width Units="hundredths-inches">540</Width>
+            </PackageDimensions>
+            <PackageQuantity>1</PackageQuantity>
+            <PartNumber>103</PartNumber>
+            <ProductGroup>Toy</ProductGroup>
+            <ProductTypeName>TOYS_AND_GAMES</ProductTypeName>
+            <Publisher>Do-A-Dot</Publisher>
+            <ReleaseDate>2013-07-28</ReleaseDate>
+            <Size>Small</Size>
+            <Studio>Do-A-Dot</Studio>
+            <Title>Do A Dot Art! Markers Brilliant Washable 6 pack, The Original Dot Marker</Title>
+            <UPC>783329269616</UPC>
+            <UPCList>
+               <UPCListElement>783329269616</UPCListElement>
+               <UPCListElement>042516627586</UPCListElement>
+               <UPCListElement>757098001036</UPCListElement>
+            </UPCList>
+            <Warranty>No Warranty</Warranty>
+         </ItemAttributes>
+         <OfferSummary>
+            <LowestNewPrice>
+               <Amount>1499</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$14.99</FormattedPrice>
+            </LowestNewPrice>
+            <LowestUsedPrice>
+               <Amount>1231</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$12.31</FormattedPrice>
+            </LowestUsedPrice>
+            <TotalNew>33</TotalNew>
+            <TotalUsed>2</TotalUsed>
+            <TotalCollectible>0</TotalCollectible>
+            <TotalRefurbished>0</TotalRefurbished>
+         </OfferSummary>
+         <Offers>
+            <TotalOffers>1</TotalOffers>
+            <TotalOfferPages>1</TotalOfferPages>
+            <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/B00004W3Y5?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00004W3Y5</MoreOffersUrl>
+            <Offer>
+               <OfferAttributes>
+                  <Condition>New</Condition>
+               </OfferAttributes>
+               <OfferListing>
+                  <OfferListingId>K4v00HPQkCT3G20X%2B0jWtOFaP8jBxZX1qi2WeusrmAf4Tv4ggHa1%2F2w1l1H4MHXFSzZAelNARYozPdqaxXUE9cCrz0zNc3CA%2FuL%2BcE%2FONGoDmdD6YXaQfg%3D%3D</OfferListingId>
+                  <Price>
+                     <Amount>1599</Amount>
+                     <CurrencyCode>USD</CurrencyCode>
+                     <FormattedPrice>$15.99</FormattedPrice>
+                  </Price>
+                  <Availability>Usually ships in 24 hours</Availability>
+                  <AvailabilityAttributes>
+                     <AvailabilityType>now</AvailabilityType>
+                     <MinimumHours>0</MinimumHours>
+                     <MaximumHours>0</MaximumHours>
+                  </AvailabilityAttributes>
+                  <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                  <IsEligibleForPrime>1</IsEligibleForPrime>
+               </OfferListing>
+            </Offer>
+         </Offers>
+         <CustomerReviews>
+            <IFrameURL>https://www.amazon.com/reviews/iframe?akid=AKIAIJKR6IY4BV5FKK7A&amp;alinkCode=xm2&amp;asin=B00004W3Y5&amp;atag=wwwyasivcom-20&amp;exp=2017-11-04T03%3A11%3A00Z&amp;v=2&amp;sig=FP8vRkmFbTSSk04sKpWpk8Wqg%252BLuKIIMDMavju5V76I%253D</IFrameURL>
+            <HasReviews>true</HasReviews>
+         </CustomerReviews>
+         <EditorialReviews>
+            <EditorialReview>
+               <Source>Product Description</Source>
+               <Content>Do A Dot Art! Where imagination begins with a little dot.&lt;br&gt;&lt;/br&gt; For the past 24 years kids all over the world have been "dotting" with Do A Dot Art! The Original Dot Marker. Do A Dot Art! has become a staple art product in homes and preschools around the world. Parents and teachers love that its so easy for their children to create fun, imaginative open ended works of art, with limitless possibilities by simply twisting off the cap and letting imaginations run wild.&lt;/br&gt;&lt;br&gt;Do A Dot Art! is designed and manufactured in the USA using only the highest quality materials and tested to the highest standards. Rest easy knowing your children are using quality products manufactured in our own factory and packed with love and care.&lt;/br&gt;&lt;br&gt;Arts and crafts just got easier, and cleaner, with Do A Dot Art! Each marker has a large sponge tip dauber that will never dry out, and makes a perfect dot every time. Do A Dot Art! markers have bold pigments and bright colors that dry fast. Perfect for layering, blending, mixing colors, and covering a lot of space.&lt;/br&gt;&lt;br&gt;Do A Dot Art! Brilliant marker set comes with 6 washable markers, Pink, Teal, Violet, Lime Green, Sunflower Yellow, and Brown.&lt;/br&gt;&lt;br&gt;Come see why Do A Dot Art! is the number one art medium used in preschools and elementary schools around the world!</Content>
+               <IsLinkSuppressed>0</IsLinkSuppressed>
+            </EditorialReview>
+         </EditorialReviews>
+         <SimilarProducts>
+            <SimilarProduct>
+               <ASIN>B00004W3Y4</ASIN>
+               <Title>Do A Dot Art! Markers 6-Pack Rainbow Washable Paint Markers, The Original Dot Marker</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000GFHFRK</ASIN>
+               <Title>Do A Dot Art! Mighty Trucks Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFSBQ</ASIN>
+               <Title>Do A Dot Art! Markers 5-Pack Shimmer Washable Paint Markers, The Original Dot Marker</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFUV4</ASIN>
+               <Title>Do A Dot Art Rainbow Trail Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000I3JAAU</ASIN>
+               <Title>Do A Dot Art! Discovering My World Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B001B9Z49G</ASIN>
+               <Title>Do A Dot Art Tales of the Mermaid Creative Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OCC3I</ASIN>
+               <Title>Do A Dot Art Farm Animal Friends Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFXSE</ASIN>
+               <Title>Do A Dot Art Princess Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00O4HEI08</ASIN>
+               <Title>Do A Dot Art! Marker Tutti Frutti Shimmer Markers, 5-Pack, The Original Dot Marker</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00DD4GB4Y</ASIN>
+               <Title>Do-A-Dot Art: Discovering Mighty Dinosaurs, Creative Activity Book</Title>
+            </SimilarProduct>
+         </SimilarProducts>
+         <BrowseNodes>
+            <BrowseNode>
+               <BrowseNodeId>166088011</BrowseNodeId>
+               <Name>Coloring Pens &amp; Markers</Name>
+               <Ancestors>
+                  <BrowseNode>
+                     <BrowseNodeId>2488275011</BrowseNodeId>
+                     <Name>Drawing &amp; Painting Supplies</Name>
+                     <Ancestors>
+                        <BrowseNode>
+                           <BrowseNodeId>166057011</BrowseNodeId>
+                           <Name>Arts &amp; Crafts</Name>
+                           <Ancestors>
+                              <BrowseNode>
+                                 <BrowseNodeId>165795011</BrowseNodeId>
+                                 <Name>Categories</Name>
+                                 <IsCategoryRoot>1</IsCategoryRoot>
+                                 <Ancestors>
+                                    <BrowseNode>
+                                       <BrowseNodeId>165793011</BrowseNodeId>
+                                       <Name>Toys &amp; Games</Name>
+                                    </BrowseNode>
+                                 </Ancestors>
+                              </BrowseNode>
+                           </Ancestors>
+                        </BrowseNode>
+                     </Ancestors>
+                  </BrowseNode>
+               </Ancestors>
+            </BrowseNode>
+            <BrowseNode>
+               <BrowseNodeId>6115507011</BrowseNodeId>
+               <Name>Toys</Name>
+               <Ancestors>
+                  <BrowseNode>
+                     <BrowseNodeId>194046011</BrowseNodeId>
+                     <Name>Products</Name>
+                     <IsCategoryRoot>1</IsCategoryRoot>
+                     <Ancestors>
+                        <BrowseNode>
+                           <BrowseNodeId>194045011</BrowseNodeId>
+                        </BrowseNode>
+                     </Ancestors>
+                  </BrowseNode>
+               </Ancestors>
+            </BrowseNode>
+         </BrowseNodes>
+      </Item>
+      <Item>
+         <ASIN>B000K3X4LE</ASIN>
+         <ParentASIN>B00YVPD246</ParentASIN>
+         <DetailPageURL>https://www.amazon.com/Colorful-Critters-Art-Creative-Activity/dp/B000K3X4LE?psc=1&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000K3X4LE</DetailPageURL>
+         <ItemLinks>
+            <ItemLink>
+               <Description>Technical Details</Description>
+               <URL>https://www.amazon.com/Colorful-Critters-Art-Creative-Activity/dp/tech-data/B000K3X4LE?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B000K3X4LE</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Baby Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B000K3X4LE&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B000K3X4LE</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wedding Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B000K3X4LE&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B000K3X4LE</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wishlist</Description>
+               <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B000K3X4LE&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B000K3X4LE</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Tell A Friend</Description>
+               <URL>https://www.amazon.com/gp/pdp/taf/B000K3X4LE?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B000K3X4LE</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Customer Reviews</Description>
+               <URL>https://www.amazon.com/review/product/B000K3X4LE?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B000K3X4LE</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Offers</Description>
+               <URL>https://www.amazon.com/gp/offer-listing/B000K3X4LE?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B000K3X4LE</URL>
+            </ItemLink>
+         </ItemLinks>
+         <SalesRank>121759</SalesRank>
+         <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51KrvqIdcXL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">58</Width>
+         </SmallImage>
+         <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51KrvqIdcXL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">124</Width>
+         </MediumImage>
+         <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51KrvqIdcXL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">389</Width>
+         </LargeImage>
+         <ImageSets>
+            <ImageSet Category="variant">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41gThMj8bWL._SL30_.jpg</URL>
+                  <Height Units="pixels">16</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41gThMj8bWL._SL75_.jpg</URL>
+                  <Height Units="pixels">39</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41gThMj8bWL._SL75_.jpg</URL>
+                  <Height Units="pixels">39</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41gThMj8bWL._SL110_.jpg</URL>
+                  <Height Units="pixels">57</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41gThMj8bWL._SL160_.jpg</URL>
+                  <Height Units="pixels">83</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/41gThMj8bWL.jpg</URL>
+                  <Height Units="pixels">181</Height>
+                  <Width Units="pixels">350</Width>
+               </LargeImage>
+            </ImageSet>
+            <ImageSet Category="primary">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51KrvqIdcXL._SL30_.jpg</URL>
+                  <Height Units="pixels">30</Height>
+                  <Width Units="pixels">23</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51KrvqIdcXL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">58</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51KrvqIdcXL._SL75_.jpg</URL>
+                  <Height Units="pixels">75</Height>
+                  <Width Units="pixels">58</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51KrvqIdcXL._SL110_.jpg</URL>
+                  <Height Units="pixels">110</Height>
+                  <Width Units="pixels">86</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51KrvqIdcXL._SL160_.jpg</URL>
+                  <Height Units="pixels">160</Height>
+                  <Width Units="pixels">124</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51KrvqIdcXL.jpg</URL>
+                  <Height Units="pixels">500</Height>
+                  <Width Units="pixels">389</Width>
+               </LargeImage>
+            </ImageSet>
+         </ImageSets>
+         <ItemAttributes>
+            <Author>Do-A-Dot Art!</Author>
+            <Binding>Toy</Binding>
+            <Brand>Do A Dot Art</Brand>
+            <CatalogNumberList>
+               <CatalogNumberListElement>ERI-DADB360</CatalogNumberListElement>
+            </CatalogNumberList>
+            <EAN>0757098003603</EAN>
+            <EANList>
+               <EANListElement>0757098003603</EANListElement>
+               <EANListElement>0557098003609</EANListElement>
+            </EANList>
+            <Feature>Cute little critters share the wonderful world that we live in. Colorful Critters coloring book is a collection of lovable animal characters including Raccoons, a Curious Alligator, A Sly Fox, and much more!</Feature>
+            <Feature>Big, bold artwork makes it easy for children to feel successful when coloring in all of our fun art activity books.</Feature>
+            <Feature>Designed to cultivate the budding artist in your little one. You will notice our graphics have been designed to work with the large sponge tips of Do A Dot Art! Markers, while at the same time not deciphering where each dot goes, so your little one has the joy of turning each page into their own work of art.</Feature>
+            <Feature>Printed on heavy card stock paper to prevent bleeding.</Feature>
+            <Feature>Perforated for easy removal and display.</Feature>
+            <IsAdultProduct>0</IsAdultProduct>
+            <ItemDimensions>
+               <Height Units="hundredths-inches">10</Height>
+               <Length Units="hundredths-inches">1120</Length>
+               <Weight Units="hundredths-pounds">10</Weight>
+               <Width Units="hundredths-inches">860</Width>
+            </ItemDimensions>
+            <Label>Do A Dot Art</Label>
+            <ListPrice>
+               <Amount>500</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$5.00</FormattedPrice>
+            </ListPrice>
+            <Manufacturer>Do A Dot Art</Manufacturer>
+            <ManufacturerMinimumAge Units="months">36</ManufacturerMinimumAge>
+            <Model>B360</Model>
+            <MPN>B360</MPN>
+            <NumberOfItems>1</NumberOfItems>
+            <PackageDimensions>
+               <Height Units="hundredths-inches">40</Height>
+               <Length Units="hundredths-inches">1070</Length>
+               <Weight Units="hundredths-pounds">35</Weight>
+               <Width Units="hundredths-inches">820</Width>
+            </PackageDimensions>
+            <PackageQuantity>1</PackageQuantity>
+            <PartNumber>B360</PartNumber>
+            <ProductGroup>Toy</ProductGroup>
+            <ProductTypeName>TOYS_AND_GAMES</ProductTypeName>
+            <PublicationDate>1997</PublicationDate>
+            <Publisher>Do A Dot Art</Publisher>
+            <Studio>Do A Dot Art</Studio>
+            <Title>Colorful Critters Do-A-Dot Art Creative Activity Book</Title>
+            <UPC>757098003603</UPC>
+            <UPCList>
+               <UPCListElement>757098003603</UPCListElement>
+               <UPCListElement>557098003609</UPCListElement>
+            </UPCList>
+         </ItemAttributes>
+         <OfferSummary>
+            <LowestNewPrice>
+               <Amount>191</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$1.91</FormattedPrice>
+            </LowestNewPrice>
+            <LowestCollectiblePrice>
+               <Amount>600</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$6.00</FormattedPrice>
+            </LowestCollectiblePrice>
+            <TotalNew>20</TotalNew>
+            <TotalUsed>0</TotalUsed>
+            <TotalCollectible>1</TotalCollectible>
+            <TotalRefurbished>0</TotalRefurbished>
+         </OfferSummary>
+         <Offers>
+            <TotalOffers>1</TotalOffers>
+            <TotalOfferPages>1</TotalOfferPages>
+            <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/B000K3X4LE?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B000K3X4LE</MoreOffersUrl>
+            <Offer>
+               <OfferAttributes>
+                  <Condition>New</Condition>
+               </OfferAttributes>
+               <OfferListing>
+                  <OfferListingId>c8CgGFzHkJakLJUM7WZ2Ewee9oNPogDiePqsbQGtjMAaOjgjZ3m%2B5o30WVb4qBptFhPO2iwmb2lfN%2B2PdzV7BzNaaHt22UhAoVmHgxJeDLum5OIyE5pd8DmAdxRKYvX%2FHzWlX5toh%2BF1pqyW9zpm%2Bu34cpscf9p0</OfferListingId>
+                  <Price>
+                     <Amount>699</Amount>
+                     <CurrencyCode>USD</CurrencyCode>
+                     <FormattedPrice>$6.99</FormattedPrice>
+                  </Price>
+                  <Availability>Usually ships in 24 hours</Availability>
+                  <AvailabilityAttributes>
+                     <AvailabilityType>now</AvailabilityType>
+                     <MinimumHours>0</MinimumHours>
+                     <MaximumHours>0</MaximumHours>
+                  </AvailabilityAttributes>
+                  <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                  <IsEligibleForPrime>1</IsEligibleForPrime>
+               </OfferListing>
+            </Offer>
+         </Offers>
+         <CustomerReviews>
+            <IFrameURL>https://www.amazon.com/reviews/iframe?akid=AKIAIJKR6IY4BV5FKK7A&amp;alinkCode=xm2&amp;asin=B000K3X4LE&amp;atag=wwwyasivcom-20&amp;exp=2017-11-04T03%3A11%3A00Z&amp;v=2&amp;sig=jC1SzFcSISrmJGczInvkboSPOjLT7AEMFm1b38T48aE%253D</IFrameURL>
+            <HasReviews>true</HasReviews>
+         </CustomerReviews>
+         <EditorialReviews>
+            <EditorialReview>
+               <Source>Product Description</Source>
+               <Content>&lt;br&gt;&lt;br&gt;&lt;b&gt;Book Details:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Format: Activity Book&lt;/li&gt;</Content>
+               <IsLinkSuppressed>0</IsLinkSuppressed>
+            </EditorialReview>
+         </EditorialReviews>
+         <SimilarProducts>
+            <SimilarProduct>
+               <ASIN>B000I3JAAU</ASIN>
+               <Title>Do A Dot Art! Discovering My World Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFUV4</ASIN>
+               <Title>Do A Dot Art Rainbow Trail Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B007P4DUT2</ASIN>
+               <Title>Do A Dot Art! Color Me Nursury Rhymes Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0021GF3BC</ASIN>
+               <Title>Do A Dot Art! Under The Sea Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B015YSFEQ2</ASIN>
+               <Title>Do A Dot Art Zoo Animals Creative Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OCC3I</ASIN>
+               <Title>Do A Dot Art Farm Animal Friends Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00004W3Y4</ASIN>
+               <Title>Do A Dot Art! Markers 6-Pack Rainbow Washable Paint Markers, The Original Dot Marker</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000GFHFRK</ASIN>
+               <Title>Do A Dot Art! Mighty Trucks Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000FA6B2Q</ASIN>
+               <Title>Do A Dot Art! Play and Learn Creative Activity and Coloring Book. Great For Learning Numbers, Letters and Shapes. Preschool Kindergarten Teacher Activities</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00196D5BA</ASIN>
+               <Title>Do A Dot Art Playful Puppies and Cuddly Kittens Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+         </SimilarProducts>
+         <BrowseNodes>
+            <BrowseNode>
+               <BrowseNodeId>166080011</BrowseNodeId>
+               <Name>Drawing &amp; Sketch Pads</Name>
+               <Ancestors>
+                  <BrowseNode>
+                     <BrowseNodeId>2488275011</BrowseNodeId>
+                     <Name>Drawing &amp; Painting Supplies</Name>
+                     <Ancestors>
+                        <BrowseNode>
+                           <BrowseNodeId>166057011</BrowseNodeId>
+                           <Name>Arts &amp; Crafts</Name>
+                           <Ancestors>
+                              <BrowseNode>
+                                 <BrowseNodeId>165795011</BrowseNodeId>
+                                 <Name>Categories</Name>
+                                 <IsCategoryRoot>1</IsCategoryRoot>
+                                 <Ancestors>
+                                    <BrowseNode>
+                                       <BrowseNodeId>165793011</BrowseNodeId>
+                                       <Name>Toys &amp; Games</Name>
+                                    </BrowseNode>
+                                 </Ancestors>
+                              </BrowseNode>
+                           </Ancestors>
+                        </BrowseNode>
+                     </Ancestors>
+                  </BrowseNode>
+               </Ancestors>
+            </BrowseNode>
+         </BrowseNodes>
+      </Item>
+      <Item>
+         <ASIN>B00O4HEI08</ASIN>
+         <ParentASIN>B00Z1ZL4SG</ParentASIN>
+         <DetailPageURL>https://www.amazon.com/Marker-Frutti-Shimmer-Markers-Original/dp/B00O4HEI08?psc=1&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00O4HEI08</DetailPageURL>
+         <ItemLinks>
+            <ItemLink>
+               <Description>Technical Details</Description>
+               <URL>https://www.amazon.com/Marker-Frutti-Shimmer-Markers-Original/dp/tech-data/B00O4HEI08?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00O4HEI08</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Baby Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B00O4HEI08&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00O4HEI08</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wedding Registry</Description>
+               <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B00O4HEI08&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00O4HEI08</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Add To Wishlist</Description>
+               <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B00O4HEI08&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00O4HEI08</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>Tell A Friend</Description>
+               <URL>https://www.amazon.com/gp/pdp/taf/B00O4HEI08?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00O4HEI08</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Customer Reviews</Description>
+               <URL>https://www.amazon.com/review/product/B00O4HEI08?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00O4HEI08</URL>
+            </ItemLink>
+            <ItemLink>
+               <Description>All Offers</Description>
+               <URL>https://www.amazon.com/gp/offer-listing/B00O4HEI08?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00O4HEI08</URL>
+            </ItemLink>
+         </ItemLinks>
+         <SalesRank>4203</SalesRank>
+         <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/512Zj2I-QYL._SL75_.jpg</URL>
+            <Height Units="pixels">44</Height>
+            <Width Units="pixels">75</Width>
+         </SmallImage>
+         <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/512Zj2I-QYL._SL160_.jpg</URL>
+            <Height Units="pixels">93</Height>
+            <Width Units="pixels">160</Width>
+         </MediumImage>
+         <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/512Zj2I-QYL.jpg</URL>
+            <Height Units="pixels">292</Height>
+            <Width Units="pixels">500</Width>
+         </LargeImage>
+         <ImageSets>
+            <ImageSet Category="variant">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Lb6HpzzDL._SL30_.jpg</URL>
+                  <Height Units="pixels">22</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Lb6HpzzDL._SL75_.jpg</URL>
+                  <Height Units="pixels">56</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Lb6HpzzDL._SL75_.jpg</URL>
+                  <Height Units="pixels">56</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Lb6HpzzDL._SL110_.jpg</URL>
+                  <Height Units="pixels">82</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Lb6HpzzDL._SL160_.jpg</URL>
+                  <Height Units="pixels">120</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51Lb6HpzzDL.jpg</URL>
+                  <Height Units="pixels">375</Height>
+                  <Width Units="pixels">500</Width>
+               </LargeImage>
+            </ImageSet>
+            <ImageSet Category="variant">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51qV9Nv1q3L._SL30_.jpg</URL>
+                  <Height Units="pixels">22</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51qV9Nv1q3L._SL75_.jpg</URL>
+                  <Height Units="pixels">56</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51qV9Nv1q3L._SL75_.jpg</URL>
+                  <Height Units="pixels">56</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51qV9Nv1q3L._SL110_.jpg</URL>
+                  <Height Units="pixels">82</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51qV9Nv1q3L._SL160_.jpg</URL>
+                  <Height Units="pixels">120</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/51qV9Nv1q3L.jpg</URL>
+                  <Height Units="pixels">375</Height>
+                  <Width Units="pixels">500</Width>
+               </LargeImage>
+            </ImageSet>
+            <ImageSet Category="primary">
+               <SwatchImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/512Zj2I-QYL._SL30_.jpg</URL>
+                  <Height Units="pixels">18</Height>
+                  <Width Units="pixels">30</Width>
+               </SwatchImage>
+               <SmallImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/512Zj2I-QYL._SL75_.jpg</URL>
+                  <Height Units="pixels">44</Height>
+                  <Width Units="pixels">75</Width>
+               </SmallImage>
+               <ThumbnailImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/512Zj2I-QYL._SL75_.jpg</URL>
+                  <Height Units="pixels">44</Height>
+                  <Width Units="pixels">75</Width>
+               </ThumbnailImage>
+               <TinyImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/512Zj2I-QYL._SL110_.jpg</URL>
+                  <Height Units="pixels">64</Height>
+                  <Width Units="pixels">110</Width>
+               </TinyImage>
+               <MediumImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/512Zj2I-QYL._SL160_.jpg</URL>
+                  <Height Units="pixels">93</Height>
+                  <Width Units="pixels">160</Width>
+               </MediumImage>
+               <LargeImage>
+                  <URL>https://images-na.ssl-images-amazon.com/images/I/512Zj2I-QYL.jpg</URL>
+                  <Height Units="pixels">292</Height>
+                  <Width Units="pixels">500</Width>
+               </LargeImage>
+            </ImageSet>
+         </ImageSets>
+         <ItemAttributes>
+            <Binding>Kitchen</Binding>
+            <Brand>Do-A-Dot</Brand>
+            <CatalogNumberList>
+               <CatalogNumberListElement>38353816</CatalogNumberListElement>
+               <CatalogNumberListElement>109D</CatalogNumberListElement>
+            </CatalogNumberList>
+            <Color>Multi-colored</Color>
+            <EAN>0757098001098</EAN>
+            <EANList>
+               <EANListElement>0757098001098</EANListElement>
+            </EANList>
+            <Feature>EASY TO GRIP BOTTLE FOR LITTLE HANDS, with generous 2.5 ounce bottles. Do A Dot Art makers have more paint per bottle than other dot markers. Just twist off the cap and let the creativity begin.</Feature>
+            <Feature>FUN ART MEDIUM FOR CHILDREN OF ALL AGES. Do A Dot Art markers have a PATENTED large sponge tip dauber engineered to be mess free, never dry out, and make a perfect dot every time. Kids love mixing, blending and layering colors to create their own masterpieces!</Feature>
+            <Feature>MADE IN THE USA. Designed and manufactured in our own factory guaranteeing that you are getting the best product without the risk of unknown and unwanted contaminants, and using only the highest quality materials and standards to ensure kids have endless fun, and parents and teachers have piece of mind. All Do A Dot Art markers are GLUTEN FREE and LATEX FREE.</Feature>
+            <Feature>NO CUPS, NO BRUSH, NO MESS, washable dot markers are easy set up clean up. Comes with 5 non-toxic colors in no spill, no splash bottles. Magenta, Lavender, Coral, Lemon, and Aqua</Feature>
+            <Feature>PROMOTES EARLY CHILDHOOD DEVELOPMENT designed for layered learning, which gives children the opportunity to do original planning and thinking while creating expressive art, developing hand eye coordination and color recognition. Easy to use, perfect for toddler, preschool and kindergarten arts and crafts projects. DRIES QUICKLY</Feature>
+            <IsAdultProduct>0</IsAdultProduct>
+            <ItemDimensions>
+               <Height Units="hundredths-inches">500</Height>
+               <Length Units="hundredths-inches">700</Length>
+               <Weight Units="hundredths-pounds">100</Weight>
+               <Width Units="hundredths-inches">150</Width>
+            </ItemDimensions>
+            <Label>Do-A-Dot Art</Label>
+            <ListPrice>
+               <Amount>1599</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$15.99</FormattedPrice>
+            </ListPrice>
+            <Manufacturer>Do-A-Dot Art</Manufacturer>
+            <ManufacturerMaximumAge Units="months">96</ManufacturerMaximumAge>
+            <ManufacturerMinimumAge Units="months">36</ManufacturerMinimumAge>
+            <Model>109</Model>
+            <MPN>109</MPN>
+            <NumberOfItems>1</NumberOfItems>
+            <PackageDimensions>
+               <Height Units="hundredths-inches">150</Height>
+               <Length Units="hundredths-inches">830</Length>
+               <Weight Units="hundredths-pounds">110</Weight>
+               <Width Units="hundredths-inches">520</Width>
+            </PackageDimensions>
+            <PackageQuantity>1</PackageQuantity>
+            <PartNumber>109</PartNumber>
+            <ProductGroup>Art and Craft Supply</ProductGroup>
+            <ProductTypeName>TOYS_AND_GAMES</ProductTypeName>
+            <Publisher>Do-A-Dot Art</Publisher>
+            <Size>Small</Size>
+            <Studio>Do-A-Dot Art</Studio>
+            <Title>Do A Dot Art! Marker Tutti Frutti Shimmer Markers, 5-Pack, The Original Dot Marker</Title>
+            <UPC>757098001098</UPC>
+            <UPCList>
+               <UPCListElement>757098001098</UPCListElement>
+            </UPCList>
+            <Warranty>No Warranty</Warranty>
+         </ItemAttributes>
+         <OfferSummary>
+            <LowestNewPrice>
+               <Amount>1499</Amount>
+               <CurrencyCode>USD</CurrencyCode>
+               <FormattedPrice>$14.99</FormattedPrice>
+            </LowestNewPrice>
+            <TotalNew>4</TotalNew>
+            <TotalUsed>0</TotalUsed>
+            <TotalCollectible>0</TotalCollectible>
+            <TotalRefurbished>0</TotalRefurbished>
+         </OfferSummary>
+         <Offers>
+            <TotalOffers>1</TotalOffers>
+            <TotalOfferPages>1</TotalOfferPages>
+            <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/B00O4HEI08?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00O4HEI08</MoreOffersUrl>
+            <Offer>
+               <OfferAttributes>
+                  <Condition>New</Condition>
+               </OfferAttributes>
+               <OfferListing>
+                  <OfferListingId>K4v00HPQkCT3G20X%2B0jWtLb%2BLWQbBOd%2FznwM8wYRqrGrSLvmaqN5H2nkU8i1idCbMF1OxMrezY28j23iaIFGr1ANCRwBJ80P1D964lQvJsUgpcoHC%2BiQYTQdAySYo9CmBzA4XSp8Y53eQgJV%2BnTupXG9EPvJcfBu</OfferListingId>
+                  <Price>
+                     <Amount>1599</Amount>
+                     <CurrencyCode>USD</CurrencyCode>
+                     <FormattedPrice>$15.99</FormattedPrice>
+                  </Price>
+                  <Availability>Usually ships in 24 hours</Availability>
+                  <AvailabilityAttributes>
+                     <AvailabilityType>now</AvailabilityType>
+                     <MinimumHours>0</MinimumHours>
+                     <MaximumHours>0</MaximumHours>
+                  </AvailabilityAttributes>
+                  <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                  <IsEligibleForPrime>1</IsEligibleForPrime>
+               </OfferListing>
+            </Offer>
+         </Offers>
+         <CustomerReviews>
+            <IFrameURL>https://www.amazon.com/reviews/iframe?akid=AKIAIJKR6IY4BV5FKK7A&amp;alinkCode=xm2&amp;asin=B00O4HEI08&amp;atag=wwwyasivcom-20&amp;exp=2017-11-04T03%3A11%3A00Z&amp;v=2&amp;sig=fd0VRUYUMIxP29pACri3CncolNdnFmsM64MBDiJDz7M%253D</IFrameURL>
+            <HasReviews>true</HasReviews>
+         </CustomerReviews>
+         <EditorialReviews>
+            <EditorialReview>
+               <Source>Product Description</Source>
+               <Content>&lt;b&gt;PRODUCT&lt;/b&gt;&lt;br&gt;&lt;br&gt;Arts and crafts just got easier, and cleaner, with Do A Dot Art! The Original Dot Marker. &lt;/br&gt;&lt;br&gt;Do A Dot Art! Tutti Frutti Shimmer set comes with 5 WASHABLE markers. Each marker has a PATENEDED large sponge tip that will never dry out, and makes a perfect dot every time. Do A Dot Art! markers have bold pigments and bright colors that dry fast. Perfect for layering, blending, mixing colors, and covering a lot of space. &lt;/br&gt;&lt;br&gt;Do A Dot Art! markers are incredibly beneficial for teaching young children the benefits of layered learning. They are the perfect art medium for those seeking arts and crafts that spark creativity and inspire open-ended unscripted play.&lt;/br&gt;&lt;br&gt;Come see why Do A Dot Art! is the number one art medium used in preschools and elementary schools around the world!&lt;br&gt;&lt;br&gt; • Includes 5 Shimmer Colors: Coral, Violet, Magenta, Sunflower Yellow, and Teal&lt;/br&gt;&lt;br&gt; • Made in the USA&lt;/br&gt;&lt;br&gt; • Dries Quickly, and Sponge Tips Never Dry Out&lt;/br&gt;&lt;br&gt; • Each Marker contains 2.5 ounces of ink more than other Dot Markers&lt;/br&gt;&lt;br&gt; • Washable&lt;/br&gt;&lt;br&gt; • Mix, Blend and Layer Color&lt;/br&gt;&lt;br&gt; • Does not Contain: Latex, Dairy &amp; Casein, Egg, Gluten, Peanut &amp; Tree Nut, or Soy&lt;/br&gt;&lt;br&gt;&lt;b&gt;COMPANY&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;b&gt; Do A Dot Art! Where Imagination Begins With A Little Dot. &lt;/br&gt;&lt;/b&gt;&lt;br&gt;For the past 24 years kids all over the world have been “dotting” with Do A Dot Art! Do A Dot Art! has become a staple art product in homes and preschools throughout the world. Parents and teachers love that its so easy for their children to create fun, imaginative open ended works of art, with limitless possibilities by simply twisting of the cap and letting imaginations run wild.&lt;/br&gt;&lt;br&gt;Do A Dot Art! is &lt;b&gt;designed and manufactured in the USA&lt;/b&gt; using only the highest quality materials and standards. Rest easy knowing your children are using quality products manufactured in our own factory and packed with love and care. &lt;/br&gt;</Content>
+               <IsLinkSuppressed>0</IsLinkSuppressed>
+            </EditorialReview>
+         </EditorialReviews>
+         <SimilarProducts>
+            <SimilarProduct>
+               <ASIN>B00004W3Y4</ASIN>
+               <Title>Do A Dot Art! Markers 6-Pack Rainbow Washable Paint Markers, The Original Dot Marker</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B001B9Z49G</ASIN>
+               <Title>Do A Dot Art Tales of the Mermaid Creative Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFSBQ</ASIN>
+               <Title>Do A Dot Art! Markers 5-Pack Shimmer Washable Paint Markers, The Original Dot Marker</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFXSE</ASIN>
+               <Title>Do A Dot Art Princess Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00004W3Y5</ASIN>
+               <Title>Do A Dot Art! Markers Brilliant Washable 6 pack, The Original Dot Marker</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OFUV4</ASIN>
+               <Title>Do A Dot Art Rainbow Trail Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B000I3JAAU</ASIN>
+               <Title>Do A Dot Art! Discovering My World Creative Activity and Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B00DD4GB4Y</ASIN>
+               <Title>Do-A-Dot Art: Discovering Mighty Dinosaurs, Creative Activity Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0006OCC3I</ASIN>
+               <Title>Do A Dot Art Farm Animal Friends Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+            <SimilarProduct>
+               <ASIN>B0021GF3BC</ASIN>
+               <Title>Do A Dot Art! Under The Sea Creative Activity Coloring Book</Title>
+            </SimilarProduct>
+         </SimilarProducts>
+         <BrowseNodes>
+            <BrowseNode>
+               <BrowseNodeId>166088011</BrowseNodeId>
+               <Name>Coloring Pens &amp; Markers</Name>
+               <Ancestors>
+                  <BrowseNode>
+                     <BrowseNodeId>2488275011</BrowseNodeId>
+                     <Name>Drawing &amp; Painting Supplies</Name>
+                     <Ancestors>
+                        <BrowseNode>
+                           <BrowseNodeId>166057011</BrowseNodeId>
+                           <Name>Arts &amp; Crafts</Name>
+                           <Ancestors>
+                              <BrowseNode>
+                                 <BrowseNodeId>165795011</BrowseNodeId>
+                                 <Name>Categories</Name>
+                                 <IsCategoryRoot>1</IsCategoryRoot>
+                                 <Ancestors>
+                                    <BrowseNode>
+                                       <BrowseNodeId>165793011</BrowseNodeId>
+                                       <Name>Toys &amp; Games</Name>
+                                    </BrowseNode>
+                                 </Ancestors>
+                              </BrowseNode>
+                           </Ancestors>
+                        </BrowseNode>
+                     </Ancestors>
+                  </BrowseNode>
+               </Ancestors>
+            </BrowseNode>
+         </BrowseNodes>
+      </Item>
+   </Items>
+</ItemLookupResponse>
