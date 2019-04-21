@@ -83,7 +83,7 @@
                 if (small_image.length) {
                     var image_url = small_image[0].getElementsByTagName('URL');
                     if (image_url.length && image_url[0].nodeType == 1) {
-                        var image = parseInt(image_url[0].childNodes[0].nodeValue);
+                        var image = image_url[0].childNodes[0].nodeValue;
                     }
                     else 
                         var image = '';
